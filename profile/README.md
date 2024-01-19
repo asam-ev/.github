@@ -10,7 +10,8 @@ The standards developed at ASAM span a wide range of use cases in automotive dev
 ## ASAM projects
 
 Here are quick-links to the ASAM projects and their repositories.
-More information about acitve projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
+
+More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
 ### ASAM quality checker framework
 
