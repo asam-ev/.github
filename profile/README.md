@@ -10,7 +10,7 @@ The standards developed at ASAM span a wide range of use cases in automotive dev
 ## ASAM projects
 
 Here are quick-links to the ASAM projects and their repositories.
-More information can be found in the [documentation](https://www.asam.net/active-projects/projects/).
+More information about acitve projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
 ### ASAM quality checker framework
 
@@ -19,6 +19,10 @@ More information can be found in the [documentation](https://www.asam.net/active
 
 ### ASAM OpenMaterial
 
-- [OpenMeterial®](https://github.com/asam-ev/OpenMATERIAL)
+- [OpenMaterial®](https://github.com/asam-ev/OpenMATERIAL)
 
 ### ASAM project guide
+
+- [ASAM Project Guide](https://github.com/asam-ev/asam-project-guide)
+- [ASAM Project Guide Content](https://github.com/asam-ev/asam-project-guide-content)
+- [ASAM Project Guide Content](https://github.com/asam-ev/project-guide-docker)
