@@ -18,16 +18,32 @@ More information about active projects can be found on our webpage [www.asam.net
 A quality checker framework that allows the configuration, execution and reporting of checks. Checks are based on rules defined by ASAM standards that allow users to validate conformity of files and implementations against ASAM standards.
 
 - [QC_Framework](https://github.com/asam-ev/qc-framework)
+- [qc-pyFramework]()
 - [QC_Opendrive](https://github.com/asam-ev/qc-opendrive)
+- [qc-openscenarioxml](https://github.com/asam-ev/qc-openscenarioxml)
+
+### ASAM OSI® (Open Simulation Interface)
+ASAM OSI® (Open Simulation Interface) is a specification for interfaces between models and components of a distributed simulation. OSI is strongly focused on the environmental perception of automated driving functions.
+
+- [Documentation](https://opensimulationinterface.github.io/osi-antora-generator/asamosi/latest/specification/index.html)
+- [Class Reference](https://opensimulationinterface.github.io/osi-antora-generator/asamosi/latest/gen/annotated.html)
+- [open-simulation-interface](https://github.com/OpenSimulationInterface/open-simulation-interface) - The main repository for the standard.
+- [osi-sensor-model-packaging](https://github.com/OpenSimulationInterface/osi-sensor-model-packaging) - https://github.com/OpenSimulationInterface/osi-sensor-model-packaging
+- [osi-validation](https://github.com/OpenSimulationInterface/osi-validation) - The OSI Validator checks the compliance of OSI messages with predefined rules.
+- [osi-documentation](https://github.com/OpenSimulationInterface/osi-documentation) - Hosts the AsciiDoc-based part of the documentation. It contains generals parts of the content and a CI-pipeline that renders the document with Asciidoctor and deploys it to the gh-pages of this repo.
+- [osi-antora-generator](https://github.com/OpenSimulationInterface/osi-antora-generator) - The pipeline of this repository is responsible for creating the combined and versioned Antora output for ASAM OSI. It also pushes it to the respective GitHub pages for hosting.
 
 ### ASAM OpenMaterial
 
 There is a growing need to accurately represent the real world in simulation, a so-called digital twin, particularly as the need for physical sensor simulation grows. However, for this to be feasible, physically correct modelling of material properties is fundamental. To ensure consistent testing across platforms and by different stakeholders, 3D models and corresponding material properties need to be unambiguously exchangeable. It is proposed to develop a standardized format for material properties.   
 
-- [OpenMaterial®](https://github.com/asam-ev/OpenMATERIAL)
+- [openmaterial](https://github.com/asam-ev/OpenMATERIAL)
 
 ### ASAM project guide
+- [ASAM Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/office-review-changes/index.html)
+- [Source](https://github.com/asam-ev/asam-project-guide-content)
 
-- [ASAM Project Guide](https://github.com/asam-ev/asam-project-guide)
-- [ASAM Project Guide Content](https://github.com/asam-ev/asam-project-guide-content)
-- [ASAM Project Guide Content](https://github.com/asam-ev/project-guide-docker)
+### ASAM GitLab
+Hosts many other ASAM projects and standards.
+
+https://code.asam.net
