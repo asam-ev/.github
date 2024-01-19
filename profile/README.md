@@ -15,10 +15,14 @@ More information about active projects can be found on our webpage [www.asam.net
 
 ### ASAM quality checker framework
 
+A quality checker framework that allows the configuration, execution and reporting of checks. Checks are based on rules defined by ASAM standards that allow users to validate conformity of files and implementations against ASAM standards.
+
 - [QC_Framework](https://github.com/asam-ev/qc-framework)
 - [QC_Opendrive](https://github.com/asam-ev/qc-opendrive)
 
 ### ASAM OpenMaterial
+
+There is a growing need to accurately represent the real world in simulation, a so-called digital twin, particularly as the need for physical sensor simulation grows. However, for this to be feasible, physically correct modelling of material properties is fundamental. To ensure consistent testing across platforms and by different stakeholders, 3D models and corresponding material properties need to be unambiguously exchangeable. It is proposed to develop a standardized format for material properties.   
 
 - [OpenMaterial®](https://github.com/asam-ev/OpenMATERIAL)
 
