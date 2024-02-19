@@ -40,7 +40,7 @@ There is a growing need to accurately represent the real world in simulation, a 
 - [openmaterial](https://github.com/asam-ev/OpenMATERIAL)
 
 ### ASAM project guide
-- [ASAM Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/office-review-changes/index.html)
+- [ASAM Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/index.html)
 - [Source](https://github.com/asam-ev/asam-project-guide-content)
 
 ### ASAM GitLab
