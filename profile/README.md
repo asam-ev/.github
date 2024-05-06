@@ -7,13 +7,13 @@ ASAM provides support in connecting members, coordinating work groups, and devel
 
 The standards developed at ASAM span a wide range of use cases in automotive development, test, and Validation. They define file formats, data models, protocols, and interfaces. All ASAM standards aim to enable easy exchange of data and tools within and across tool chains. They are applied worldwide.
 
-## ASAM projects
+## ASAM Projects
 
 Here are quick-links to the ASAM projects and their repositories.
 
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
-### ASAM quality checker framework
+### ASAM Quality Checker Framework
 
 A quality checker framework that allows the configuration, execution and reporting of checks. Checks are based on rules defined by ASAM standards that allow users to validate conformity of files and implementations against ASAM standards.
 
@@ -40,7 +40,7 @@ There is a growing need to accurately represent the real world in simulation, a 
 - [OpenMATERIAL & 3D model Structures](https://github.com/asam-ev/OpenMATERIAL)
 - [OpenMaterial_old](https://github.com/asam-ev/OpenMATERIAL_old)
 
-### ASAM project guide
+### ASAM Project Guide
 - [ASAM Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/index.html)
 - [Source](https://github.com/asam-ev/asam-project-guide-content)
 
