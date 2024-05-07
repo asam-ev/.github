@@ -17,9 +17,9 @@ More information about active projects can be found on our webpage [www.asam.net
 
 A quality checker framework that allows the configuration, execution and reporting of checks. Checks are based on rules defined by ASAM standards that allow users to validate conformity of files and implementations against ASAM standards.
 
-- [qc_framework](https://github.com/asam-ev/qc-framework)
+- [qc-framework](https://github.com/asam-ev/qc-framework)
 - [qc-pyFramework](https://github.com/asam-ev/qc-pyFramework)
-- [qc_opendrive](https://github.com/asam-ev/qc-opendrive)
+- [qc-opendrive](https://github.com/asam-ev/qc-opendrive)
 - [qc-openscenarioxml](https://github.com/asam-ev/qc-openscenarioxml)
 
 ### ASAM OSI® (Open Simulation Interface)
