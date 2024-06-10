@@ -22,6 +22,7 @@ A quality checker framework that allows the configuration, execution and reporti
 - [qc-pyFramework](https://github.com/asam-ev/qc-pyFramework)
 - [qc-opendrive](https://github.com/asam-ev/qc-opendrive)
 - [qc-openscenarioxml](https://github.com/asam-ev/qc-openscenarioxml)
+- [qc-otx](https://github.com/asam-ev/qc-otx)
 
 ### ASAM OSI® (Open Simulation Interface)
 ASAM OSI® (Open Simulation Interface) is a specification for interfaces between models and components of a distributed simulation. OSI is strongly focused on the environmental perception of automated driving functions.
