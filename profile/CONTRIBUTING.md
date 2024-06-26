@@ -1,16 +1,22 @@
-# Contributing to ASAM e.V open-source Projects
+# :book: Contributing to ASAM e.V open-source Projects
 
 As an open-source standardization projects, we welcome and encourage the community to submit patches directly to the project. In our collaborative open source environment, standards and methods for submitting changes help reduce the chaos that can result from an active development community. This document explains how to participate in project conversations, log bugs and enhancement requests, and submit patches to the project so your patch will be accepted quickly in the codebase.
 
 All IP remains that of the original contributors, and is subject to the original license terms described in the LICENSE file.
 
-## Licensing
+## :bulb: Asking Questions
+
+See our [Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development.html).
+
+Or contact our office: info@asam.net
+
+## :white_check_mark: Licensing
 
 This project uses the MPL-2.0 License (as found in the LICENSE file).
 
 The license tells you what rights you have as a developer, provided by the copyright holder. It is important that the contributor fully understands the licensing rights and agrees to them. Sometimes the copyright holder isn’t the contributor, such as when the contributor is doing work on behalf of a company.
 
-## Developer Certification of Origin (DCO)
+## :medal_sports: Developer Certification of Origin (DCO)
 
 To make a good faith effort to ensure licensing criteria are met, this project requires the Developer Certificate of Origin (DCO) process to be followed.
 The DCO is an attestation attached to every contribution made by every developer.
@@ -73,7 +79,7 @@ fi
 Placing this script into a file called `.git/hooks/commit-msg` and making it executable (e.g. using `chmod a+x .git/hooks/commit-msg` on unixoid operating systems) will prevent commits without a sign-off.
 
 
-## Implement changes
+## :mag: Implement changes
 
 Feature additions and bug fixes from the community are very welcome.
 Therefore, feel free not only to report an issue but also to work on a solution right away.
@@ -92,12 +98,24 @@ For both ways, the following workflow applies:
 Labels are given for each step as described in the [ASAM contribution workflow](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development/contribution.html).
 The steps are further described in the following.
 
-### Open an issue
+### :inbox_tray: Open an issue
+
+Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project.
 
 The first step is to identify and describe a bug or feature.
 Open a new issue in the GitHub repository with the respective template for a bug or a feature.
 
-Please check the official [ASAM issue guideline](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development/contribute_with_issues.html).
+- **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have.
+
+- **Prefer using [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)**, not comments, if you simply want to "+1" an existing issue.
+
+- **Fully complete the provided issue template.** The templates requests all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can.
+
+- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially put code blocks and console outputs in backticks (```). This improves readability.
+
+- **Use Labels to categorize the issues.** Please check the official [ASAM issue guideline](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development/contribute_with_issues.html).
+
+In short, **provide a ticket that you would like to receive**.
 
 ### Create a branch
 
@@ -106,7 +124,21 @@ You can use the link on the right side in the issue ("Development: Create a bran
 
 In order to create a branch, either fork the repository or request access to the contributors group.
 
-### Create a draft pull request
+### :repeat: Create a draft pull request
+
+Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
+
+*Note: All contributions will be licensed under the project's license.*
+
+- **Smaller is better.** Submit **one** pull request per bug fix or feature. A pull request should contain isolated changes pertaining to a single bug fix or feature implementation. **Do not** refactor or reformat code that is unrelated to your change. It is better to **submit many small pull requests** rather than a single large one.
+
+- **Coordinate bigger changes.** For large and non-trivial changes, open an issue to discuss a strategy with the maintainers.
+
+- **Follow existing coding style and conventions.** Keep your code consistent with the style, formatting, and conventions in the rest of the code base. When possible, these will be enforced with a linter. Consistency makes it easier to review and modify in the future.
+
+- When writing comments, use properly constructed sentences, including punctuation.
+
+- Use spaces, not tabs.
 
 - After creating the branch, commit your first changes. Follow the signing instructions for commits (DCO) above.
 - Create a draft pull request. Use the template for pull requests and fill it out accordingly.
@@ -122,3 +154,47 @@ Also, the CI pipeline will run for every commit, so you can continuously check y
 Once you are done with your changes and all reviews took place, [convert the draft to a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request).
 
 By this, the change control board (CCB) knows that you are done with your work and that the pull request is ready for review and merge.
+
+## :memo: Writing Commit Messages
+
+Please [write a great commit message](https://chris.beams.io/posts/git-commit/).
+
+1. Separate subject from body with a blank line
+2. Limit the subject line to 50 characters
+3. Capitalize the subject line
+4. Do not end the subject line with a period
+5. Use the imperative mood in the subject line (example: "Fix networking issue")
+6. Wrap the body at about 72 characters
+
+```
+[TAG] Short summary of changes in 50 chars or less
+
+Add a more detailed explanation here, if necessary. Possibly give
+some background about the issue, etc. The body of the
+commit message can be several paragraphs. Further paragraphs come
+after blank lines and please do proper word-wrap.
+
+Wrap it to about 72 characters or so. In some contexts,
+the first line is treated as the subject of the commit and the
+rest of the text as the body. The blank line separating the summary
+from the body is critical (unless you omit the body entirely);
+various tools like `log`, `shortlog` and `rebase` can get confused
+if you run the two together.
+
+Explain the problem that this commit is solving. Focus on why you
+are making this change as opposed to how or what. The code explains
+how or what. Reviewers and your future self can read the patch,
+but might not understand why a particular solution was implemented.
+Are there side effects or other unintuitive consequences of this
+change? Here's the place to explain them.
+
+ - Bullet points are okay, too
+
+ - A hyphen or asterisk should be used for the bullet, preceded
+   by a single space, with blank lines in between
+
+Note the fixed or relevant GitHub issues at the end:
+
+Resolves: #123
+See also: #456, #789
+```
