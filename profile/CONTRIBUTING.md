@@ -72,19 +72,6 @@ fi
 
 Placing this script into a file called `.git/hooks/commit-msg` and making it executable (e.g. using `chmod a+x .git/hooks/commit-msg` on unixoid operating systems) will prevent commits without a sign-off.
 
-## GPG commit signature verification
-
-Every commit in a repository of OpenMSL requires a verification of the commit signature using GPG-sign commits with `-S [<keyid>]`.
-The `keyid` argument is optional and defaults to the committer identity;
-if specified, it must be stuck to the option without a space. `--no-gpg-sign` is useful to countermand both `commit.gpgSign` configuration variable, and earlier `--gpg-sign`.
-
-You can read all about setting it up in the [official GitHub documentation](https://docs.github.com/en/authentication/managing-commit-signature-verification).
-
-Using DCO, GPG and a custom commit message, your commit command reads e.g.
-
-```bash
-git commit -s -S -m "Your commit message"
-```
 
 ## Implement changes
 
