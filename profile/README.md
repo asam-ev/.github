@@ -42,6 +42,12 @@ There is a growing need to accurately represent the real world in simulation, a 
 - [OpenMATERIAL & 3D model Structures](https://github.com/asam-ev/OpenMATERIAL)
 - [OpenMaterial_old](https://github.com/asam-ev/OpenMATERIAL_old)
 
+### ASAM ODS (Open Data Services)
+
+The [ASAM ODS (Open Data Services)](https://www.asam.net/standards/detail/ods/wiki/) standard defines a set of services and protocols for the management and exchange of measurement data in the automotive industry. ASAM ODS is only available for ASAM members. The files provided here serve as a convenience for developers working with ODS services and are utilized by various pipelines to facilitate communication with ODS services.
+
+- [asam-ods-interfaces](https://github.com/asam-ev/ASAM-ODS-Interfaces) - The .proto files in this repository define the Protocol Buffer schemas used to interface with these ODS services.
+
 ## Tools & helper scripts
 
 Often ASAM members or ASAM projects may develop scripts or small tools that support the use of one or more of ASAM's standards. To increase visibility for these, ASAM hosts them on it's repositories.
