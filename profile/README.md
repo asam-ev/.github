@@ -7,6 +7,8 @@ ASAM provides support in connecting members, coordinating work groups, and devel
 
 The standards developed at ASAM span a wide range of use cases in automotive development, test, and Validation. They define file formats, data models, protocols, and interfaces. All ASAM standards aim to enable easy exchange of data and tools within and across tool chains. They are applied worldwide.
 
+If you want to contribute in one of our open source projects, please read the [Contributing guidelines](https://github.com/asam-ev/.github/blob/main/profile/CONTRIBUTING.md) 
+
 ## ASAM Projects
 
 Here are quick-links to the ASAM projects and their repositories.
