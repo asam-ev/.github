@@ -1,4 +1,4 @@
-# ASAM Code Platform
+# ASAM Open Source Platform
 ![tp header](/doc/img/Asam_Background_1.jpg)
 
 ASAM e.V. (Association for Standardization of Automation and Measuring Systems) is a non-profit organization that promotes standardization of tool chains in automotive development and testing. Our members are international car manufacturers, suppliers, tool vendors, engineering service providers, and research institutes. ASAM standards are developed by experts from our member companies and are based on real use cases. ASAM is the legal owner of these standards and is responsible for their distribution and marketing.
@@ -15,7 +15,7 @@ Here are quick-links to the ASAM projects and their repositories:
 - [ASAM Quality Checker Framework](#asam-quality-checker-framework)
 - [ASAM OSI® (Open Simulation Interface)](#asam-osi-open-simulation-interface)
 - [ASAM OpenMATERIAL® & 3D model structures](#asam-open-material-3d-model-structures)
-- [ASAM ODS (Open Data Services)](#asam-ods-open-data-services))
+- [ASAM ODS (Open Data Services)](#asam-ods-open-data-services)
 
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
