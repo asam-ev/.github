@@ -20,7 +20,7 @@ Here are quick-links to the ASAM projects and their repositories:
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
 And also quick-links to other ressources and tools:
-- [Tools & helper scripts](#tools-helper-scripts)
+- [Tools and helper scripts](#tools-and-helper-scripts)
 - [ASAM Project Guide](#asam-project-guide)
 - [ASAM GitLab](#asam-gitLab)
 
@@ -59,7 +59,7 @@ The [ASAM ODS (Open Data Services)](https://www.asam.net/standards/detail/ods/wi
 
 - [asam-ods-interfaces](https://github.com/asam-ev/ASAM-ODS-Interfaces) - The .proto files in this repository define the Protocol Buffer schemas used to interface with these ODS services.
 
-## Tools & helper scripts
+## Tools and helper scripts
 
 Often ASAM members or ASAM projects may develop scripts or small tools that support the use of one or more of ASAM's standards. To increase visibility for these, ASAM hosts them on it's repositories.
 
