@@ -14,7 +14,7 @@ If you want to contribute in one of our open source projects, please read the [C
 Here are quick-links to the ASAM projects and their repositories:
 - [ASAM Quality Checker Framework](#asam-quality-checker-framework)
 - [ASAM OSI® (Open Simulation Interface)](#asam-osi-open-simulation-interface)
-- [ASAM OpenMATERIAL® & 3D model structures](#asam-openmaterial-3d-model-structures)
+- [ASAM OpenMATERIAL® & 3D model structures](#asam-open-material-3d-model-structures)
 - [ASAM ODS (Open Data Services)](#asam-ods-open-data-services))
 
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
@@ -59,7 +59,7 @@ The [ASAM ODS (Open Data Services)](https://www.asam.net/standards/detail/ods/wi
 
 - [asam-ods-interfaces](https://github.com/asam-ev/ASAM-ODS-Interfaces) - The .proto files in this repository define the Protocol Buffer schemas used to interface with these ODS services.
 
-## Tools & helper scripts
+### Tools & helper scripts
 
 Often ASAM members or ASAM projects may develop scripts or small tools that support the use of one or more of ASAM's standards. To increase visibility for these, ASAM hosts them on it's repositories.
 
