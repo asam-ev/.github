@@ -20,7 +20,7 @@ Here are quick-links to the ASAM projects and their repositories:
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
 And also quick-links to other ressources and tools:
-- [Tools & helper scripts](#tools-and-helper-scripts)
+- [Tools & helper scripts](#tools-helper-scripts)
 - [ASAM Project Guide](#asam-project-guide)
 - [ASAM GitLab](#asam-gitLab)
 
