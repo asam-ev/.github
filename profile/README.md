@@ -14,13 +14,13 @@ If you want to contribute in one of our open source projects, please read the [C
 Here are quick-links to the ASAM projects and their repositories:
 - [ASAM Quality Checker Framework](#asam-quality-checker-framework)
 - [ASAM OSI® (Open Simulation Interface)](#asam-osi-open-simulation-interface)
-- [ASAM OpenMATERIAL® & 3D model structures](#asam-openmaterial-3d-model-structure)
+- [ASAM OpenMATERIAL® & 3D model structures](#asam-openmaterial-3d-model-structures)
 - [ASAM ODS (Open Data Services)](#asam-ods-open-data-services))
 
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
 And also quick-links to other ressources and tools:
-- [Tools & helper scripts](#tools-helper-scripts)
+- [Tools & helper scripts](#tools-and-helper-scripts)
 - [ASAM Project Guide](#asam-project-guide)
 - [ASAM GitLab](#asam-gitLab)
 
