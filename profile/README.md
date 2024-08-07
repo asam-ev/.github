@@ -19,7 +19,7 @@ More information about active projects can be found on our webpage [www.asam.net
 
 A quality checker framework that allows the configuration, execution and reporting of checks. Checks are based on rules defined by ASAM standards that allow users to validate conformity of files and implementations against ASAM standards.
 
-- [qc-framework](https://github.com/asam-ev/qc-framework) - The main repository for the ASAM Quality Checker formed by a collection of C++ components
+- [qc-framework](https://github.com/asam-ev/qc-framework) - The main repository for the ASAM Quality Checker formed by a collection of C++ and Python components responsible for running the checker bundles
 - [qc-baselib-py](https://github.com/asam-ev/qc-baselib-py) - The Python Base library repository implements a Python interface for interacting with the configuration files and the results files from the ASAM Quality Checker framework
 - [qc-pyFramework](https://github.com/asam-ev/qc-pyFramework) - Deprecated
 - [qc-opendrive](https://github.com/asam-ev/qc-opendrive) - Specific ASAM OpenDRIVE repository which implements his official ASAM OpenDRIVE checker bundle
