@@ -4,6 +4,12 @@ As an open-source standardization projects, we welcome and encourage the communi
 
 All IP remains that of the original contributors, and is subject to the original license terms described in the LICENSE file.
 
+## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/)
+
+Before you fill out the [Membership Request Form](https://www.asam.net/index.php?eID=dumpFile&t=f&f=671&token=b37651b1609e8693188bbde1dafc4f229c18c2c8) we ask you to get familiar with the [ASAM Statutes](https://www.asam.net/index.php?eID=dumpFile&t=f&f=675&token=5a112bf0f7638cbfd647f89b89869af94e212762) and the [Regulation of Fees](https://www.asam.net/index.php?eID=dumpFile&t=f&f=673&token=1321eb0a4e6cfb99112f61648e411520f83a8d01). If you have questions when determining your member class, please check the FAQs below or contact us at info@asam.net.
+
+After turning in your Membership Request Form, the ASAM Office will forward your application to the Board of Directors for approval. Upon decision of acceptance, the ASAM Office welcomes you and guides you through the server registration process. We also provide all relevant information (e. g. guidelines) and answer any questions you may have. Our goal is to inspire you to become an active member of the community so you can take the full advantage of your membership. 
+
 ## :bulb: Asking Questions
 
 See our [Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development.html).
@@ -154,6 +160,15 @@ Also, the CI pipeline will run for every commit, so you can continuously check y
 Once you are done with your changes and all reviews took place, [convert the draft to a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request).
 
 By this, the change control board (CCB) knows that you are done with your work and that the pull request is ready for review and merge.
+
+The CCB is a subgroup of experts from the project and responsible for internal alignment of topics, release management and approval/review of pull requests:
+
+- Issue and MR/PR review
+- Classification of issues
+- Assignment of issues to solution developer(s)
+- Milestone monitoring and planning
+- Ensure alignment of individual Subgroup topics
+- Release management
 
 ## :memo: Writing Commit Messages
 
