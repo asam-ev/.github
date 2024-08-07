@@ -24,7 +24,7 @@ A quality checker framework that allows the configuration, execution and reporti
 - [qc-pyFramework](https://github.com/asam-ev/qc-pyFramework) - Deprecated
 - [qc-opendrive](https://github.com/asam-ev/qc-opendrive) - Specific ASAM OpenDRIVE repository which implements the Checker Library
 - [qc-openscenarioxml](https://github.com/asam-ev/qc-openscenarioxml) - Specific ASAM OpenSCENARIO XML repository which implements the Checker Library
-- [qc-otx](https://github.com/asam-ev/qc-otx) - Specific Open Test sequence eXchange (OTX) repository which contains a short representative list of check examples (it shall not be a reference implementation) for the ASAM Quality Checker project
+- [qc-otx](https://github.com/asam-ev/qc-otx) - Specific Open Test sequence eXchange (OTX) repository which contains a short representative list of check examples (it shall not be a reference implementation)
 
 ### ASAM OSI® (Open Simulation Interface)
 ASAM OSI® (Open Simulation Interface) is a specification for interfaces between models and components of a distributed simulation. OSI is strongly focused on the environmental perception of automated driving functions.
