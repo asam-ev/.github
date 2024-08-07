@@ -4,7 +4,7 @@ As an open-source standardization projects, we welcome and encourage the communi
 
 All IP remains that of the original contributors, and is subject to the original license terms described in the LICENSE file.
 
-## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/)
+## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/) or the project
 
 Before you fill out the [Membership Request Form](https://www.asam.net/index.php?eID=dumpFile&t=f&f=671&token=b37651b1609e8693188bbde1dafc4f229c18c2c8) we ask you to get familiar with the [ASAM Statutes](https://www.asam.net/index.php?eID=dumpFile&t=f&f=675&token=5a112bf0f7638cbfd647f89b89869af94e212762) and the [Regulation of Fees](https://www.asam.net/index.php?eID=dumpFile&t=f&f=673&token=1321eb0a4e6cfb99112f61648e411520f83a8d01). If you have questions when determining your member class, please check the FAQs below or contact us at info@asam.net.
 
@@ -14,7 +14,7 @@ After turning in your Membership Request Form, the ASAM Office will forward your
 
 See our [Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development.html).
 
-Or contact our office: info@asam.net
+Or **contact our office: info@asam.net**
 
 ## :white_check_mark: Licensing
 
@@ -162,7 +162,6 @@ Once you are done with your changes and all reviews took place, [convert the dra
 By this, the change control board (CCB) knows that you are done with your work and that the pull request is ready for review and merge.
 
 The CCB is a subgroup of experts from the project and responsible for internal alignment of topics, release management and approval/review of pull requests:
-
 - Issue and MR/PR review
 - Classification of issues
 - Assignment of issues to solution developer(s)
