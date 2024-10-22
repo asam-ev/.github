@@ -57,13 +57,13 @@ The DCO agreement is shown below and online at [developercertificate.org](https:
     all personal information I submit with it, including my
     sign-off) is maintained indefinitely and may be redistributed
     consistent with this project or the open source license(s)
-    involved.'
+    involved.
 
 ### Usage of DCO Sign-Off
 
 The DCO requires a sign-off message in the following format to appear on each commit in the pull request:
 
-`Signed-off-by: Firstname Lastname <email@address.com>`
+`Signed-off-by: Firstname Lastname <email@address.com> <comment>`
 
 The DCO text can either be manually added to your commit body, or you can add either `-s` or `--signoff` to your usual Git commit commands.
 If you forget to add the sign-off you can also amend a previous commit with the sign-off by running git commit `--amend -s`.
@@ -110,7 +110,7 @@ The steps are further described in the following.
 
 Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project.
 
-The first step is to identify and describe a bug or feature.
+The first step is to identify and describe a bug or feature, or place a question.
 Open a new issue in the GitHub repository with the respective template for a bug or a feature.
 
 - **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have.
