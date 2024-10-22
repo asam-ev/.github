@@ -111,7 +111,7 @@ The steps are further described in the following.
 Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project.
 
 The first step is to identify and describe a bug or feature, or place a question.
-Open a new issue in the GitHub repository with the respective template for a bug or a feature.
+Open a new issue in the respective project GitHub repository with the respective template for a bug or a feature.
 
 - **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have.
 
@@ -149,7 +149,7 @@ Before [forking the repo](https://help.github.com/en/github/getting-started-with
 - Use spaces, not tabs.
 
 - After creating the branch, commit your first changes. Follow the signing instructions for commits (DCO) [above](#Usage-of-DCO-Sign-Off)).
-- Create a draft pull request. Use the template for pull requests and fill it out accordingly.
+- Create a draft pull request and fill it out accordingly.
 Be sure to link the issue you created earlier in the pull request.
 - In the bottom, you can select to either submit as a pull request or as a draft pull request.
 - Use a draft pull request first, so the community can already see the ongoing work.
