@@ -1,14 +1,22 @@
-# :book: Contributing to ASAM e.V open-source Projects
+# :book: Contributing to ASAM e.V. open-source Projects
 
 As an open-source standardization projects, we welcome and encourage the community to submit patches directly to the project. In our collaborative open source environment, standards and methods for submitting changes help reduce the chaos that can result from an active development community. This document explains how to participate in project conversations, log bugs and enhancement requests, and submit patches to the project so your patch will be accepted quickly in the codebase.
 
-All IP remains that of the original contributors, and is subject to the original license terms described in the LICENSE file.
+All intelectual properties remains that of the original contributors, and is subject to the original license terms described in the LICENSE file.
+
+## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/) or the project
+
+Before you fill out the [Membership Request Form](https://www.asam.net/index.php?eID=dumpFile&t=f&f=671&token=b37651b1609e8693188bbde1dafc4f229c18c2c8) we ask you to get familiar with the [ASAM Statutes](https://www.asam.net/index.php?eID=dumpFile&t=f&f=675&token=5a112bf0f7638cbfd647f89b89869af94e212762) and the [Regulation of Fees](https://www.asam.net/index.php?eID=dumpFile&t=f&f=673&token=1321eb0a4e6cfb99112f61648e411520f83a8d01). If you have questions when determining your member class, please check the FAQs below or contact us at info@asam.net.
+
+After turning in your Membership Request Form, the ASAM Office will forward your application to the Board of Directors for approval. Upon decision of acceptance, the ASAM Office welcomes you and guides you through the server registration process. We also provide all relevant information (e. g. guidelines) and answer any questions you may have. Our goal is to inspire you to become an active member of the community so you can take the full advantage of your membership. 
 
 ## :bulb: Asking Questions
 
 See our [Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development.html).
 
-Or contact our office: info@asam.net
+and also our [Anti-Trust Reminder](https://www.asam.net/index.php?eID=dumpFile&t=f&f=2496&token=90723c0e1dd4dc7000dd1bd362597c043ce9ecaf)
+
+Or **contact our office: info@asam.net**
 
 ## :white_check_mark: Licensing
 
@@ -20,7 +28,7 @@ The license tells you what rights you have as a developer, provided by the copyr
 
 To make a good faith effort to ensure licensing criteria are met, this project requires the Developer Certificate of Origin (DCO) process to be followed.
 The DCO is an attestation attached to every contribution made by every developer.
-In the commit message of the contribution, (described more fully later in this document), the developer simply adds a "Signed-off-by" statement and thereby agrees to the DCO.
+In the commit message of the contribution, (described more fully [here](#Usage-of-DCO-Sign-Off)), the developer simply adds a "Signed-off-by" statement and thereby agrees to the DCO.
 When a developer submits a patch, it is a commitment that the contributor has the right to submit the patch per the license.
 The DCO agreement is shown below and online at [developercertificate.org](https://developercertificate.org/).
 
@@ -49,13 +57,13 @@ The DCO agreement is shown below and online at [developercertificate.org](https:
     all personal information I submit with it, including my
     sign-off) is maintained indefinitely and may be redistributed
     consistent with this project or the open source license(s)
-    involved.'
+    involved.
 
 ### Usage of DCO Sign-Off
 
 The DCO requires a sign-off message in the following format to appear on each commit in the pull request:
 
-`Signed-off-by: Firstname Lastname <email@address.com>`
+`Signed-off-by: Firstname Lastname <email@address.com> <comment>`
 
 The DCO text can either be manually added to your commit body, or you can add either `-s` or `--signoff` to your usual Git commit commands.
 If you forget to add the sign-off you can also amend a previous commit with the sign-off by running git commit `--amend -s`.
@@ -102,8 +110,8 @@ The steps are further described in the following.
 
 Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project.
 
-The first step is to identify and describe a bug or feature.
-Open a new issue in the GitHub repository with the respective template for a bug or a feature.
+The first step is to identify and describe a bug or feature, or place a question.
+Open a new issue in the respective project GitHub repository with the respective template for a bug or a feature.
 
 - **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have.
 
@@ -111,7 +119,7 @@ Open a new issue in the GitHub repository with the respective template for a bug
 
 - **Fully complete the provided issue template.** The templates requests all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can.
 
-- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially put code blocks and console outputs in backticks (```). This improves readability.
+- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially put code blocks and console outputs in backticks (`). This improves readability.
 
 - **Use Labels to categorize the issues.** Please check the official [ASAM issue guideline](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development/contribute_with_issues.html).
 
@@ -140,8 +148,8 @@ Before [forking the repo](https://help.github.com/en/github/getting-started-with
 
 - Use spaces, not tabs.
 
-- After creating the branch, commit your first changes. Follow the signing instructions for commits (DCO) above.
-- Create a draft pull request. Use the template for pull requests and fill it out accordingly.
+- After creating the branch, commit your first changes. Follow the signing instructions for commits (DCO) [above](#Usage-of-DCO-Sign-Off)).
+- Create a draft pull request and fill it out accordingly.
 Be sure to link the issue you created earlier in the pull request.
 - In the bottom, you can select to either submit as a pull request or as a draft pull request.
 - Use a draft pull request first, so the community can already see the ongoing work.
@@ -154,6 +162,14 @@ Also, the CI pipeline will run for every commit, so you can continuously check y
 Once you are done with your changes and all reviews took place, [convert the draft to a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request).
 
 By this, the change control board (CCB) knows that you are done with your work and that the pull request is ready for review and merge.
+
+The CCB is a subgroup of experts from the project and responsible for internal alignment of topics, release management and approval/review of pull requests:
+- Issue and MR/PR review
+- Classification of issues
+- Assignment of issues to solution developer(s)
+- Milestone monitoring and planning
+- Ensure alignment of individual Subgroup topics
+- Release management
 
 ## :memo: Writing Commit Messages
 
