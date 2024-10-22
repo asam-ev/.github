@@ -8,7 +8,9 @@ All intellectual property remains with the original contributors, and is subject
 
 ASAM recognizes several hosting modes:
 - The product is developed within an ASAM project group and released through the ASAM marketplace.
+  
     The declaration document specifies that:
+
         1. The software is a result of the project group’s activities.
         2. No project group member retains any rights.
         3. All required components are provided.
@@ -16,7 +18,9 @@ ASAM recognizes several hosting modes:
         5. The deliverable is relevant for ASAM standardization work.
 
 - The product is handed over to an ASAM project group for continued development and jointly released via the ASAM marketplace.
+  
      The declaration document specifies that:
+
         1. The software is a result of the project group’s activities.
         2. No project group member retains any rights.
         3. For third-party components (select applicable items):
@@ -28,15 +32,20 @@ ASAM recognizes several hosting modes:
         9. The deliverable is relevant for ASAM standardization work.
   
 - The product is transferred to ASAM for direct publication, with no modifications, as an ASAM product on the ASAM marketplace.
+  
     The transfer agreement specifies that:
+
       - ASAM is authorized to:
+  
             1. Provide public access
             2. Distribute free copies
             3. Modify and/or integrate with other software
             4. Reject or delete the deliverable
             5. Sub-license the software
             6. Promote or advertise the deliverable
+  
       - The third party guarantees:
+  
             1. Compliance with ASAM’s licensing terms
             2. For third-party components (select applicable items):
                 2.a The deliverable is free of third-party rights
@@ -47,10 +56,15 @@ ASAM recognizes several hosting modes:
             5. The deliverable is relevant to ASAM standardization efforts
   
 - The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace.
+  
     The marketplace terms and conditions (T&C) specify the following:
+  
         - ASAM provides:
+  
             1. A hosting platform (either directly or through a service provider)
+  
         - The third party guarantees:
+  
             1. The assets are provided at the third party's own risk
             2. The assets are free from malware
             3. The assets are free of any third-party rights
@@ -60,11 +74,13 @@ ASAM recognizes several hosting modes:
 ![Open-Source Softeare Platform](https://asamev.sharepoint.com/:i:/g/EfFV2Y7B4H1EudmxMMTDDAgBTvXocKD3MD0IF_dNarNGwg?e=3yS0Ns)
 
 Finally, the marketplace terms and conditions also state that:
+
     - ASAM provides assets:
         1. Free of charge
         2. Under ASAM license conditions
         3. "As is," without any warranties
         4. Without a guarantee of suitability for the intended purpose
+        
     - The end user agrees to:
         1. Comply with ASAM license conditions
         2. Cooperate in addressing any defects
