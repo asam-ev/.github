@@ -4,6 +4,71 @@ As an open-source standardization projects, we welcome and encourage the communi
 
 All intellectual property remains with the original contributors, and is subject to the original license terms described in the LICENSE file.
 
+## How is it structured in ASAM?
+
+ASAM recognizes several hosting modes:
+- The product is developed within an ASAM project group and released through the ASAM marketplace.
+    The declaration document specifies that:
+        1. The software is a result of the project group’s activities.
+        2. No project group member retains any rights.
+        3. All required components are provided.
+        4. The deliverable is free from malware.
+        5. The deliverable is relevant for ASAM standardization work.
+
+- The product is handed over to an ASAM project group for continued development and jointly released via the ASAM marketplace.
+     The declaration document specifies that:
+        1. The software is a result of the project group’s activities.
+        2. No project group member retains any rights.
+        3. For third-party components (select applicable items):
+            3.a The deliverable is free from third-party rights.
+            3.b All third-party components are open-source and comply with ASAM requirements.
+            3.c All third-party rights have been transferred to ASAM.
+        7. All required components are provided.
+        8. The deliverable is free from malware.
+        9. The deliverable is relevant for ASAM standardization work.
+  
+- The product is transferred to ASAM for direct publication, with no modifications, as an ASAM product on the ASAM marketplace.
+    The transfer agreement specifies that:
+      - ASAM is authorized to:
+            1. Provide public access
+            2. Distribute free copies
+            3. Modify and/or integrate with other software
+            4. Reject or delete the deliverable
+            5. Sub-license the software
+            6. Promote or advertise the deliverable
+      - The third party guarantees:
+            1. Compliance with ASAM’s licensing terms
+            2. For third-party components (select applicable items):
+                2.a The deliverable is free of third-party rights
+                2.b All third-party components are open-source and comply with ASAM requirements
+                2.c All third-party rights have been transferred to ASAM
+            3. All necessary components are included
+            4. The deliverable is free of malware
+            5. The deliverable is relevant to ASAM standardization efforts
+  
+- The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace.
+    The marketplace terms and conditions (T&C) specify the following:
+        - ASAM provides:
+            1. A hosting platform (either directly or through a service provider)
+        - The third party guarantees:
+            1. The assets are provided at the third party's own risk
+            2. The assets are free from malware
+            3. The assets are free of any third-party rights
+            4. The assets are fully available for free, with no hidden costs
+            5. The assets are relevant to ASAM standardization efforts.
+
+![Open-Source Softeare Platform](https://asamev.sharepoint.com/:i:/g/EfFV2Y7B4H1EudmxMMTDDAgBTvXocKD3MD0IF_dNarNGwg?e=3yS0Ns)
+
+Finally, the marketplace terms and conditions also state that:
+    - ASAM provides assets:
+        1. Free of charge
+        2. Under ASAM license conditions
+        3. "As is," without any warranties
+        4. Without a guarantee of suitability for the intended purpose
+    - The end user agrees to:
+        1. Comply with ASAM license conditions
+        2. Cooperate in addressing any defects
+
 ## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/) or the project
 
 Before you fill out the [Membership Request Form](https://www.asam.net/index.php?eID=dumpFile&t=f&f=671&token=b37651b1609e8693188bbde1dafc4f229c18c2c8) we ask you to get familiar with the [ASAM Statutes](https://www.asam.net/index.php?eID=dumpFile&t=f&f=675&token=5a112bf0f7638cbfd647f89b89869af94e212762) and the [Regulation of Fees](https://www.asam.net/index.php?eID=dumpFile&t=f&f=673&token=1321eb0a4e6cfb99112f61648e411520f83a8d01). If you have questions when determining your member class, please check the FAQs below or contact us at info@asam.net.
