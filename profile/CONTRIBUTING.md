@@ -17,7 +17,7 @@ ASAM recognizes several hosting modes:
         4. The deliverable is free from malware.
         5. The deliverable is relevant for ASAM standardization work.
 
-- The product is handed over to an ASAM project group for continued development and jointly released via the ASAM marketplace.
+- The product is handed over to an ASAM project group for continued development(modification/extension) and jointly released via the ASAM marketplace.
   
      The declaration document specifies that:
 
