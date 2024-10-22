@@ -71,17 +71,20 @@ ASAM recognizes several hosting modes:
             4. The assets are fully available for free, with no hidden costs
             5. The assets are relevant to ASAM standardization efforts.
 
-![Open-Source Softeare Platform](https://asamev.sharepoint.com/:i:/g/EfFV2Y7B4H1EudmxMMTDDAgBTvXocKD3MD0IF_dNarNGwg?e=3yS0Ns)
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform.png)
+
 
 Finally, the marketplace terms and conditions also state that:
 
     - ASAM provides assets:
+    
         1. Free of charge
         2. Under ASAM license conditions
         3. "As is," without any warranties
         4. Without a guarantee of suitability for the intended purpose
         
     - The end user agrees to:
+    
         1. Comply with ASAM license conditions
         2. Cooperate in addressing any defects
 
