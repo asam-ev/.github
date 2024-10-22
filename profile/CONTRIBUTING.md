@@ -1,8 +1,8 @@
-# :book: Contributing to ASAM e.V open-source Projects
+# :book: Contributing to ASAM e.V. open-source Projects
 
 As an open-source standardization projects, we welcome and encourage the community to submit patches directly to the project. In our collaborative open source environment, standards and methods for submitting changes help reduce the chaos that can result from an active development community. This document explains how to participate in project conversations, log bugs and enhancement requests, and submit patches to the project so your patch will be accepted quickly in the codebase.
 
-All IP remains that of the original contributors, and is subject to the original license terms described in the LICENSE file.
+All intelectual properties remains that of the original contributors, and is subject to the original license terms described in the LICENSE file.
 
 ## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/) or the project
 
@@ -13,6 +13,8 @@ After turning in your Membership Request Form, the ASAM Office will forward your
 ## :bulb: Asking Questions
 
 See our [Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development.html).
+
+and also our [Anti-Trust Reminder](https://www.asam.net/index.php?eID=dumpFile&t=f&f=2496&token=90723c0e1dd4dc7000dd1bd362597c043ce9ecaf)
 
 Or **contact our office: info@asam.net**
 
@@ -26,7 +28,7 @@ The license tells you what rights you have as a developer, provided by the copyr
 
 To make a good faith effort to ensure licensing criteria are met, this project requires the Developer Certificate of Origin (DCO) process to be followed.
 The DCO is an attestation attached to every contribution made by every developer.
-In the commit message of the contribution, (described more fully later in this document), the developer simply adds a "Signed-off-by" statement and thereby agrees to the DCO.
+In the commit message of the contribution, (described more fully [here](#Usage-of-DCO-Sign-Off)), the developer simply adds a "Signed-off-by" statement and thereby agrees to the DCO.
 When a developer submits a patch, it is a commitment that the contributor has the right to submit the patch per the license.
 The DCO agreement is shown below and online at [developercertificate.org](https://developercertificate.org/).
 
