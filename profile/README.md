@@ -1,5 +1,5 @@
-# ASAM Code Platform
-![tp header](/doc/img/Asam_Background_1.jpg)
+# ASAM Open Source Platform
+[![tp header](/doc/img/Asam_Background_1.jpg)](http://www.asam.net/)
 
 ASAM e.V. (Association for Standardization of Automation and Measuring Systems) is a non-profit organization that promotes standardization of tool chains in automotive development and testing. Our members are international car manufacturers, suppliers, tool vendors, engineering service providers, and research institutes. ASAM standards are developed by experts from our member companies and are based on real use cases. ASAM is the legal owner of these standards and is responsible for their distribution and marketing.
 
@@ -11,9 +11,18 @@ If you want to contribute in one of our open source projects, please read the [C
 
 ## ASAM Projects
 
-Here are quick-links to the ASAM projects and their repositories.
+Here are quick-links to the ASAM projects and their repositories:
+- [ASAM Quality Checker Framework](#asam-quality-checker-framework)
+- [ASAM OSI® (Open Simulation Interface)](#asam-osi-open-simulation-interface)
+- [ASAM OpenMATERIAL® and 3D model structures](#asam-openmaterial-and-3d-model-structures)
+- [ASAM ODS (Open Data Services)](#asam-ods-open-data-services)
 
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
+
+And also quick-links to other ressources and tools:
+- [Tools and helper scripts](#tools-and-helper-scripts)
+- [ASAM Project Guide](#asam-project-guide)
+- [ASAM GitLab](#asam-gitLab)
 
 ### ASAM Quality Checker Framework
 
@@ -37,12 +46,12 @@ ASAM OSI® (Open Simulation Interface) is a specification for interfaces between
 - [osi-documentation](https://github.com/OpenSimulationInterface/osi-documentation) - Hosts the AsciiDoc-based part of the documentation. It contains generals parts of the content and a CI-pipeline that renders the document with Asciidoctor and deploys it to the gh-pages of this repo.
 - [osi-antora-generator](https://github.com/OpenSimulationInterface/osi-antora-generator) - The pipeline of this repository is responsible for creating the combined and versioned Antora output for ASAM OSI. It also pushes it to the respective GitHub pages for hosting.
 
-### ASAM OpenMATERIAL® & 3D model structures
+### ASAM OpenMATERIAL® and 3D model structures
 
 There is a growing need to accurately represent the real world in simulation, a so-called digital twin, particularly as the need for physical sensor simulation grows. However, for this to be feasible, physically correct modelling of material properties is fundamental. To ensure consistent testing across platforms and by different stakeholders, 3D models and corresponding material properties need to be unambiguously exchangeable. It is proposed to develop a standardized format for material properties.   
 
-- [OpenMATERIAL & 3D model Structures](https://github.com/asam-ev/OpenMATERIAL)
-- [OpenMaterial_old](https://github.com/asam-ev/OpenMATERIAL_old)
+- [OpenMATERIAL® & 3D model Structures](https://github.com/asam-ev/OpenMATERIAL)
+- [OpenMATERIAL®_old](https://github.com/asam-ev/OpenMATERIAL_old)
 
 ### ASAM ODS (Open Data Services)
 
@@ -50,17 +59,17 @@ The [ASAM ODS (Open Data Services)](https://www.asam.net/standards/detail/ods/wi
 
 - [asam-ods-interfaces](https://github.com/asam-ev/ASAM-ODS-Interfaces) - The .proto files in this repository define the Protocol Buffer schemas used to interface with these ODS services.
 
-## Tools & helper scripts
+## Tools and helper scripts
 
 Often ASAM members or ASAM projects may develop scripts or small tools that support the use of one or more of ASAM's standards. To increase visibility for these, ASAM hosts them on it's repositories.
 
 - [Wireshark plugin for ASAM iLinkRT](https://github.com/asam-ev/Wireshark-iLinkRT) - This enables the popular network protocol analyzer [Wireshark](https://www.wireshark.org/) to dissect ASAM iLinkRT frames. 
 
-### ASAM Project Guide
+## ASAM Project Guide
 - [ASAM Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/index.html)
 - [Source](https://github.com/asam-ev/asam-project-guide-content)
 
-### ASAM GitLab
+## ASAM GitLab
 Hosts many other ASAM projects and standards.
 
 https://code.asam.net
