@@ -119,7 +119,7 @@ Open a new issue in the GitHub repository with the respective template for a bug
 
 - **Fully complete the provided issue template.** The templates requests all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can.
 
-- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially put code blocks and console outputs in backticks (```). This improves readability.
+- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially put code blocks and console outputs in backticks (`). This improves readability.
 
 - **Use Labels to categorize the issues.** Please check the official [ASAM issue guideline](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Development/contribute_with_issues.html).
 
@@ -148,7 +148,7 @@ Before [forking the repo](https://help.github.com/en/github/getting-started-with
 
 - Use spaces, not tabs.
 
-- After creating the branch, commit your first changes. Follow the signing instructions for commits (DCO) above.
+- After creating the branch, commit your first changes. Follow the signing instructions for commits (DCO) [above](#Usage-of-DCO-Sign-Off)).
 - Create a draft pull request. Use the template for pull requests and fill it out accordingly.
 Be sure to link the issue you created earlier in the pull request.
 - In the bottom, you can select to either submit as a pull request or as a draft pull request.
