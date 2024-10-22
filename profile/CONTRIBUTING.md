@@ -73,6 +73,7 @@ ASAM recognizes several hosting modes:
 
 ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform.png)
 
+The ASAM office will consistently conduct a compliance check to ensure all requirements are met.
 
 Finally, the marketplace terms and conditions also state that:
 
