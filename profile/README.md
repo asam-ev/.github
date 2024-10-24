@@ -30,7 +30,6 @@ A quality checker framework that allows the configuration, execution and reporti
 
 - [qc-framework](https://github.com/asam-ev/qc-framework) - The main repository for the ASAM Quality Checker formed by a collection of C++ and Python components responsible for running the checker bundles
 - [qc-baselib-py](https://github.com/asam-ev/qc-baselib-py) - The Python Base library repository implements a Python interface for interacting with the configuration files and the results files from the ASAM Quality Checker framework
-- [qc-pyFramework](https://github.com/asam-ev/qc-pyFramework) - Deprecated
 - [qc-opendrive](https://github.com/asam-ev/qc-opendrive) - Specific ASAM OpenDRIVE repository which implements his official ASAM OpenDRIVE checker bundle
 - [qc-openscenarioxml](https://github.com/asam-ev/qc-openscenarioxml) - Specific ASAM OpenSCENARIO XML repository which implements his official ASAM OpenSCENARIO XML checker bundle
 - [qc-otx](https://github.com/asam-ev/qc-otx) - Specific Open Test sequence eXchange (OTX) repository which contains a short representative list of check examples (it shall not be a reference implementation)
