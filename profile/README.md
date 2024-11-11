@@ -11,15 +11,9 @@ If you want to contribute in one of our open source projects, please read the [C
 
 ## ASAM Projects
 
-Here are quick-links to the ASAM projects and their repositories:
-- [ASAM Quality Checker Framework](#asam-quality-checker-framework)
-- [ASAM OSI® (Open Simulation Interface)](#asam-osi-open-simulation-interface)
-- [ASAM OpenMATERIAL® and 3D model structures](#asam-openmaterial-and-3d-model-structures)
-- [ASAM ODS (Open Data Services)](#asam-ods-open-data-services)
-
-| ASAM QUALITY CHECKER FRAMEWORK                                                                              |ASAM OSI                                                                                                                                               |ASAM OpenMATERIAL         |
-|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|
-| [<img src="/doc/img/Quality_Checker_Framework.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://opensimulationinterface.github.io/osi-antora-generator/asamosi/latest/specification/index.html)  | [<img src="/doc/img/sharepoint_logo_openMaterial.png" width="100" />](https://github.com/asam-ev/OpenMATERIAL) 
+| ASAM QC FRAMEWORK            | ASAM OSI              | ASAM OpenMATERIAL         | ASAM ODS |
+|:----------------------------:|:---------------------:|:------------------------:|:------------------------:|
+| [<img src="/doc/img/ASAM Quality Checker Framework.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://github.com/OpenSimulationInterface/open-simulation-interface) | [<img src="/doc/img/sharepoint_logo_openMaterial.png" width="100" />](https://github.com/asam-ev/OpenMATERIAL) | [<img src="/doc/img/ODS.png" width="100" />](https://github.com/asam-ev/ASAM-ODS-Interfaces) |
 
 
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
