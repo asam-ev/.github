@@ -17,6 +17,11 @@ Here are quick-links to the ASAM projects and their repositories:
 - [ASAM OpenMATERIAL® and 3D model structures](#asam-openmaterial-and-3d-model-structures)
 - [ASAM ODS (Open Data Services)](#asam-ods-open-data-services)
 
+| ASAM QUALITY CHECKER FRAMEWORK                                                                              |ASAM OSI                                                                                                                                               |ASAM OpenMATERIAL         |
+|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|
+| [<img src="/doc/img/Quality_Checker_Framework.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://opensimulationinterface.github.io/osi-antora-generator/asamosi/latest/specification/index.html)  | [<img src="/doc/img/sharepoint_logo_openMaterial.png" width="100" />](https://github.com/asam-ev/OpenMATERIAL) 
+
+
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
 And also quick-links to other ressources and tools:
