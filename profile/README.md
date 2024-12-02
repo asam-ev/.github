@@ -18,7 +18,7 @@ If you want to contribute in one of our open source projects, please read the [C
 
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
-And also quick-links to other resources and tools:
+Quick-links to other resources and tools:
 - [Tools and helper scripts](#tools-and-helper-scripts)
 - [ASAM Project Guide](#asam-project-guide)
 - [ASAM GitLab](#asam-gitLab)
