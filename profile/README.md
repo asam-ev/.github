@@ -36,7 +36,7 @@ A quality checker framework that allows the configuration, execution and reporti
 ### ASAM OSI® (Open Simulation Interface)
 ASAM OSI® (Open Simulation Interface) is a specification for interfaces between models and components of a distributed simulation. OSI is strongly focused on the environmental perception of automated driving functions.
 
-- [Documentation](https://opensimulationinterface.github.io/osi-antora-generator/asamosi/latest/specification/index.html)
+- [Documentation](https://opensimulationinterface.github.io/osi-antora-generator/asamosi/latest/specification/index.html) - The ASAM OSI specification
 - [Class Reference](https://opensimulationinterface.github.io/osi-antora-generator/asamosi/latest/gen/annotated.html)
 - [open-simulation-interface](https://github.com/OpenSimulationInterface/open-simulation-interface) - The main repository for the standard.
 - [osi-sensor-model-packaging](https://github.com/OpenSimulationInterface/osi-sensor-model-packaging) - OSI Sensor Model Packaging specifies ways in which models (like e.g. environmental effect models, sensor models and logical models) using the Open Simulation Interface (OSI) are to be packaged for their use in simulation environments using [FMI 2.0](https://report.asam.net/fmi-functional-mock-up-interface).
