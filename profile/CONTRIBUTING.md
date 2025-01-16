@@ -14,6 +14,12 @@ ASAM recognizes several hosting modes:
   
   ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_1.PNG)
 
+In this approach, an idea can be proposed by anyone—ASAM members, non-members, or directly from the ASAM office—who wishes to establish a working group to develop the concept further. Ideas can be shared with us via [E-Mail](info@asam.net)
+
+> Note: Please keep in mind that if a non-ASAM member proposes an idea but wishes to participate in its development, an active ASAM membership is required.
+
+For more details and information about the project phases, please refer to our [Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Projects/03_project_phases.html)
+
     The declaration document specifies that:
 
         1. The software is a result of the project group’s activities.
