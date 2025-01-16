@@ -55,21 +55,7 @@ ASAM recognizes several hosting modes:
             4. The deliverable is free of malware
             5. The deliverable is relevant to ASAM standardization efforts
   
-- The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace.
-  
-    The marketplace terms and conditions (T&C) specify the following:
-  
-        - ASAM provides:
-  
-            1. A hosting platform (either directly or through a service provider)
-  
-        - The third party guarantees:
-  
-            1. The assets are provided at the third party's own risk
-            2. The assets are free from malware
-            3. The assets are free of any third-party rights
-            4. The assets are fully available for free, with no hidden costs
-            5. The assets are relevant to ASAM standardization efforts.
+- The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace (see Marketplace Terms & Conditions).
 
 ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform.png)
 
