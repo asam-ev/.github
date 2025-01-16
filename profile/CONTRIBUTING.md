@@ -87,7 +87,7 @@ Or **contact our office: info@asam.net**
 
 ## :white_check_mark: Licensing
 
-This project uses the MPL-2.0 License (as found in the [LICENSE file](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/LICENSE.md)).
+Projects transferred into our marketplace will undergo a defined transfer process, during which the final license will be selected and explicitly established (see also [LICENSE file](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/LICENSE.md)).
 
 The license tells you what rights you have as a developer, provided by the copyright holder. It is important that the contributor fully understands the licensing rights and agrees to them. Sometimes the copyright holder isn’t the contributor, such as when the contributor is doing work on behalf of a company.
 
