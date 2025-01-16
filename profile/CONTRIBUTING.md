@@ -55,7 +55,7 @@ ASAM recognizes several hosting modes:
             4. The deliverable is free of malware
             5. The deliverable is relevant to ASAM standardization efforts
   
-- The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace (see Marketplace Terms & Conditions).
+- The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace (see [Marketplace Terms & Conditions](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/MARKETPLACE_T%26Cs.md)).
 
 ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform.png)
 
