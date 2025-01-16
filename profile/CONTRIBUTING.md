@@ -10,11 +10,11 @@ ASAM recognizes several hosting modes:
 
 ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform.png)
 
-### 1. The product is developed within an ASAM project group and released under the ASAM GitHub organization.
+### 1. The product is developed within an ASAM project group
   
-  ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_1.PNG)
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_1.PNG)
 
-In this approach, an idea can be proposed by anyone—ASAM members, non-members, or directly from the ASAM office—who wishes to establish a working group to develop the concept further. Ideas can be shared with us via [E-Mail](info@asam.net)
+The product is developed within an ASAM project group and released under the ASAM GitHub organization. In this approach, an idea can be proposed by anyone—ASAM members, non-members, or directly from the ASAM office—who wishes to establish a working group to develop the concept further. Ideas can be shared with us via [E-Mail](info@asam.net)
 
 > Note: Please keep in mind that if a non-ASAM member proposes an idea but wishes to participate in its development, an active ASAM membership is required.
 
@@ -28,10 +28,12 @@ For more details and information about the project phases, please refer to our [
         4. The deliverable is free from malware.
         5. The deliverable is relevant for ASAM standardization work.
 
-### 2. The product is handed over to an ASAM project group for continued development(modification/extension) and jointly released via the ASAM marketplace.
+### 2. The product is handed over to an ASAM project group for continued development
 
-  ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_2.PNG)
-  
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_2.PNG)
+
+The product is transferred to an ASAM project group for further development (modification or extension) and is collaboratively released through the ASAM marketplace. In this approach, there is already an initial work or baseline to build upon. The ASAM Office will evaluate it and treat it as a new project. The project phases and work process will follow the same structure as in the first approach, with the key difference being that the outcome will be collaboratively released in the ASAM marketplace.
+
      The declaration document specifies that:
 
         1. The software is a result of the project group’s activities.
@@ -44,9 +46,11 @@ For more details and information about the project phases, please refer to our [
         8. The deliverable is free from malware.
         9. The deliverable is relevant for ASAM standardization work.
   
-### 3. The product is transferred to ASAM for direct publication, with no modifications, as an ASAM product on the ASAM marketplace.
+### 3. The product is transferred to ASAM for direct publication.
   
-  ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_3.PNG)
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_3.PNG)
+
+The product is submitted to ASAM for direct publication, without any modifications, as an official ASAM product on the ASAM marketplace. In this case, no active working group will be involved in further development.
 
     The transfer agreement specifies that:
 
@@ -70,9 +74,11 @@ For more details and information about the project phases, please refer to our [
             4. The deliverable is free of malware
             5. The deliverable is relevant to ASAM standardization efforts
   
-### 4. The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace (see [Marketplace Terms & Conditions](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/MARKETPLACE_T%26Cs.md)).
+### 4. The product is submitted directly to ASAM for publication as a third-party product
 
-  ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_4.PNG)
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_4.PNG)
+
+The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace (see [Marketplace Terms & Conditions](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/MARKETPLACE_T%26Cs.md)).
 
 **_IMPORTANT_**  
 The ASAM office will consistently conduct a compliance check to ensure all requirements are met.
