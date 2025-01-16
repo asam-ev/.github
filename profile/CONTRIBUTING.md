@@ -4,7 +4,7 @@ As an open-source standardization projects, we welcome and encourage the communi
 
 All intellectual property remains with the original contributors, and is subject to the original license terms described in the LICENSE file.
 
-## How is it structured in ASAM?
+## How are open-source projects structured in ASAM?
 
 ASAM recognizes several hosting modes:
 - The product is developed within an ASAM project group and released under the ASAM GitHub organization.
