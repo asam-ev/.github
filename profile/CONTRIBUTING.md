@@ -73,7 +73,7 @@ The ASAM office will consistently conduct a compliance check to ensure all requi
 
 ## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/) or the project
 
-Before you fill out the [Membership Request Form](https://www.asam.net/index.php?eID=dumpFile&t=f&f=671&token=b37651b1609e8693188bbde1dafc4f229c18c2c8) we ask you to get familiar with the [ASAM Statutes](https://www.asam.net/index.php?eID=dumpFile&t=f&f=675&token=5a112bf0f7638cbfd647f89b89869af94e212762) and the [Regulation of Fees](https://www.asam.net/index.php?eID=dumpFile&t=f&f=673&token=1321eb0a4e6cfb99112f61648e411520f83a8d01). If you have questions when determining your member class, please check the FAQs below or contact us at info@asam.net.
+Before you fill out the [Membership Request Form](https://www.asam.net/index.php?eID=dumpFile&t=f&f=671&token=b37651b1609e8693188bbde1dafc4f229c18c2c8) we ask you to get familiar with the [ASAM Statutes](https://www.asam.net/index.php?eID=dumpFile&t=f&f=675&token=5a112bf0f7638cbfd647f89b89869af94e212762) and the [Regulation of Fees](https://www.asam.net/index.php?eID=dumpFile&t=f&f=673&token=1321eb0a4e6cfb99112f61648e411520f83a8d01). If you have questions when determining your member class, please contact us at info@asam.net.
 
 After turning in your Membership Request Form, the ASAM Office will forward your application to the Board of Directors for approval. Upon decision of acceptance, the ASAM Office welcomes you and guides you through the server registration process. We also provide all relevant information (e. g. guidelines) and answer any questions you may have. Our goal is to inspire you to become an active member of the community so you can take the full advantage of your membership. 
 
