@@ -2,7 +2,7 @@
 
 As an open-source standardization projects, we welcome and encourage the community to submit patches directly to the project. In our collaborative open source environment, standards and methods for submitting changes help reduce the chaos that can result from an active development community. This document explains how to participate in project conversations, log bugs and enhancement requests, and submit patches to the project so your patch will be accepted quickly in the codebase.
 
-All intellectual property remains with the original contributors, and is subject to the original license terms described in the LICENSE file.
+All intellectual property remains with the original contributors, and is subject to the original license terms described in the [LICENSE](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/LICENSE.md).
 
 ## How are open-source projects structured in ASAM?
 
