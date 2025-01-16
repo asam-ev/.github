@@ -7,7 +7,7 @@ All intellectual property remains with the original contributors, and is subject
 ## How is it structured in ASAM?
 
 ASAM recognizes several hosting modes:
-- The product is developed within an ASAM project group and released through the ASAM marketplace.
+- The product is developed within an ASAM project group and released under the ASAM GitHub organization.
   
     The declaration document specifies that:
 
