@@ -2,17 +2,17 @@
 
 The marketplace terms and conditions (T&C) specify the following:
   
-        * ASAM provides:
+- ASAM provides:
   
-            1. A hosting platform (either directly or through a service provider)
+  1. A hosting platform (either directly or through a service provider)
   
-        * The third party guarantees:
+- The third party guarantees:
   
-            1. The assets are provided at the third party's own risk
-            2. The assets are free from malware
-            3. The assets are free of any third-party rights
-            4. The assets are fully available for free, with no hidden costs
-            5. The assets are relevant to ASAM standardization efforts.
+  1. The assets are provided at the third party's own risk
+  2. The assets are free from malware
+  3. The assets are free of any third-party rights
+  4. The assets are fully available for free, with no hidden costs
+  5. The assets are relevant to ASAM standardization efforts.
 
 Finally, the marketplace terms and conditions also state that:
 
