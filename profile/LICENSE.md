@@ -1,5 +1,6 @@
 
-We only accept projects that are already licensed under some accepted open source licenses.
+In addition to the invidiual license terms in a repository, the following terms and conditions apply for any users of tools or libraries provided under the ASAM e.V. organization.
+
 A shortlist of accepted licenses for projects to use to be hosted by ASAM e.V:
 - [Mozilla Public License Version 2.0](#mozilla-public-license-version-2-0)
 - [Apache License](#apache-license)
