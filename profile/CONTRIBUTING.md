@@ -7,8 +7,13 @@ All intellectual property remains with the original contributors, and is subject
 ## How are open-source projects structured in ASAM?
 
 ASAM recognizes several hosting modes:
-- The product is developed within an ASAM project group and released under the ASAM GitHub organization.
+
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform.png)
+
+### 1. The product is developed within an ASAM project group and released under the ASAM GitHub organization.
   
+  ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_1.PNG)
+
     The declaration document specifies that:
 
         1. The software is a result of the project group’s activities.
@@ -17,7 +22,9 @@ ASAM recognizes several hosting modes:
         4. The deliverable is free from malware.
         5. The deliverable is relevant for ASAM standardization work.
 
-- The product is handed over to an ASAM project group for continued development(modification/extension) and jointly released via the ASAM marketplace.
+### 2. The product is handed over to an ASAM project group for continued development(modification/extension) and jointly released via the ASAM marketplace.
+
+  ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_2.PNG)
   
      The declaration document specifies that:
 
@@ -31,8 +38,10 @@ ASAM recognizes several hosting modes:
         8. The deliverable is free from malware.
         9. The deliverable is relevant for ASAM standardization work.
   
-- The product is transferred to ASAM for direct publication, with no modifications, as an ASAM product on the ASAM marketplace.
+### 3. The product is transferred to ASAM for direct publication, with no modifications, as an ASAM product on the ASAM marketplace.
   
+  ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_3.PNG)
+
     The transfer agreement specifies that:
 
       - ASAM is authorized to:
@@ -55,10 +64,11 @@ ASAM recognizes several hosting modes:
             4. The deliverable is free of malware
             5. The deliverable is relevant to ASAM standardization efforts
   
-- The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace (see [Marketplace Terms & Conditions](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/MARKETPLACE_T%26Cs.md)).
+### 4. The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace (see [Marketplace Terms & Conditions](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/MARKETPLACE_T%26Cs.md)).
 
-![tp header](/doc/img/OpenSource_ASAM_Overview_Platform.png)
+  ![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_4.PNG)
 
+**_IMPORTANT_**  
 The ASAM office will consistently conduct a compliance check to ensure all requirements are met.
 
 ## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/) or the project
