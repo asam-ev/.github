@@ -6,6 +6,10 @@ A shortlist of accepted licenses for projects to use to be hosted by ASAM e.V:
 - [Apache License](#apache-license)
 - [MIT License](#mit-license)
 
+```
+DISCLAIMER: If you wish to use a license not listed here, please feel free to contact us.
+```
+
 # Mozilla Public License Version 2.0
 ==================================
 These files are subject to the terms of the Mozilla Public License Version 2.0. If a copy of the MPL-2.0 was not distributed with this
