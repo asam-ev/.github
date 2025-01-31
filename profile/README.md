@@ -11,10 +11,16 @@ If you want to contribute in one of our open source projects, please read the [C
 
 ## ASAM Projects
 
+
 | ASAM QC FRAMEWORK            | ASAM OSI              | ASAM OpenMATERIAL         | ASAM ODS |
 |:----------------------------:|:---------------------:|:------------------------:|:------------------------:|
 | [<img src="/doc/img/ASAM Quality Checker Framework.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://github.com/OpenSimulationInterface/open-simulation-interface) | [<img src="/doc/img/sharepoint_logo_openMaterial.png" width="100" />](https://github.com/asam-ev/OpenMATERIAL) | [<img src="/doc/img/ODS.png" width="100" />](https://github.com/asam-ev/ASAM-ODS-Interfaces) |
 
+Here are quick-links to the ASAM projects and their repositories:
+- [ASAM Quality Checker Framework](#asam-quality-checker-framework)
+- [ASAM OSI® (Open Simulation Interface)](#asam-osi-open-simulation-interface)
+- [ASAM OpenMATERIAL® 3D](#asam-openmaterial-3d)
+- [ASAM ODS (Open Data Services)](#asam-ods-open-data-services)
 
 More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
 
@@ -44,11 +50,11 @@ ASAM OSI® (Open Simulation Interface) is a specification for interfaces between
 - [osi-documentation](https://github.com/OpenSimulationInterface/osi-documentation) - Hosts the AsciiDoc-based part of the documentation. It contains general parts of the content and a CI-pipeline that renders the document with Asciidoctor and deploys it to the [github-pages](https://github.com/OpenSimulationInterface/osi-documentation/deployments/github-pages) of this repo.
 - [osi-antora-generator](https://github.com/OpenSimulationInterface/osi-antora-generator) - The pipeline of this repository is responsible for creating the combined and versioned Antora output for ASAM OSI. It also pushes it to the respective GitHub pages for hosting.
 
-### ASAM OpenMATERIAL® and 3D model structures
+### ASAM OpenMATERIAL® 3D
 
 There is a growing need to accurately represent the real world in simulation, a so-called digital twin, particularly as the need for physical sensor simulation grows. However, for this to be feasible, physically correct modelling of material properties is fundamental. To ensure consistent testing across platforms and by different stakeholders, 3D models and corresponding material properties need to be unambiguously exchangeable. It is proposed to develop a standardized format for material properties.   
 
-- [OpenMATERIAL® & 3D model Structures](https://github.com/asam-ev/OpenMATERIAL)
+- [OpenMATERIAL® 3D](https://github.com/asam-ev/OpenMATERIAL)
 - [OpenMATERIAL®_old](https://github.com/asam-ev/OpenMATERIAL_old)
 
 ### ASAM ODS (Open Data Services)
