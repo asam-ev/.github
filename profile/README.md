@@ -33,6 +33,7 @@ A quality checker framework that allows the configuration, execution and reporti
 - [qc-opendrive](https://github.com/asam-ev/qc-opendrive) - Specific ASAM OpenDRIVE repository which implements his official ASAM OpenDRIVE checker bundle
 - [qc-openscenarioxml](https://github.com/asam-ev/qc-openscenarioxml) - Specific ASAM OpenSCENARIO XML repository which implements his official ASAM OpenSCENARIO XML checker bundle
 - [qc-otx](https://github.com/asam-ev/qc-otx) - Specific Open Test sequence eXchange (OTX) repository which contains a short representative list of check examples (it shall not be a reference implementation)
+- [qc-openmaterial-3d](https://github.com/asam-ev/qc-openmaterial-3d/tree/develop) - Specific ASAM OpenMATERIAL 3D repository which implements his official ASAM OpenMATERIAL 3D checker bundle -> "NOTE: CURRENTLY IN DEVELOPMENT"
 
 ### ASAM OSI® (Open Simulation Interface)
 ASAM OSI® (Open Simulation Interface) is a specification for interfaces between models and components of a distributed simulation. OSI is strongly focused on the environmental perception of automated driving functions.
