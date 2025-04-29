@@ -18,7 +18,7 @@ If you want to contribute in one of our open source projects, please read the [C
 
 Click below in the quick-links to the ASAM projects and their repositories:
 - [ASAM Quality Checker Framework](#asam-quality-checker-framework)
-- [ASAM OSI®)](#asam-osi)
+- [ASAM OSI®](#asam-osi)
 - [ASAM OpenMATERIAL® 3D](#asam-openmaterial-3d)
 - [ASAM ODS](#asam-ods)
 
