@@ -46,6 +46,8 @@ A quality checker framework that allows the configuration, execution and reporti
 - [qc-otx](https://github.com/asam-ev/qc-otx) - A checker bundle implementing a sample of rules for the standard ASAM OTX Extensions (Open Test sequence eXchange). Note that this is not to be considered an exhaustive checker bundle.
 - [qc-openmaterial-3d](https://github.com/asam-ev/qc-openmaterial-3d/tree/develop) - Specific ASAM OpenMATERIAL 3D repository which implements his official ASAM OpenMATERIAL 3D checker bundle
 
+---
+
 ### ASAM OSI®
 ASAM OSI (Open Simulation Interface) is a specification for interfaces between models and components of a distributed simulation. OSI is strongly focused on the environmental perception of automated driving functions.
 
@@ -57,17 +59,23 @@ ASAM OSI (Open Simulation Interface) is a specification for interfaces between m
 - [osi-documentation](https://github.com/OpenSimulationInterface/osi-documentation) - Hosts the AsciiDoc-based part of the documentation. It contains general parts of the content and a CI-pipeline that renders the document with Asciidoctor and deploys it to the [github-pages](https://github.com/OpenSimulationInterface/osi-documentation/deployments/github-pages) of this repo.
 - [osi-antora-generator](https://github.com/OpenSimulationInterface/osi-antora-generator) - The pipeline of this repository is responsible for creating the combined and versioned Antora output for ASAM OSI. It also pushes it to the respective GitHub pages for hosting.
 
+---
+
 ### ASAM OpenMATERIAL® 3D
 
 There is a growing need to accurately represent the real world in simulation, a so-called digital twin, particularly as the need for physical sensor simulation grows. However, for this to be feasible, physically correct modeling of material properties is fundamental. To ensure consistent testing across platforms and by different stakeholders, 3D models and corresponding material properties need to be unambiguously exchangeable. ASAM OpenMATERIAL 3D v1.0.0 is a standardized format for material properties and 3D model structures.   
 
 - [OpenMATERIAL® 3D](https://github.com/asam-ev/OpenMATERIAL)
 
+---
+
 ### ASAM ODS
 
 The [ASAM ODS (Open Data Services)](https://www.asam.net/standards/detail/ods/) standard defines a set of services and protocols for the management and exchange of measurement data in the automotive industry. The files provided below as open source offer easy access for developers working with ASAM ODS services and are utilized by various pipelines to facilitate communication with ASAM ODS services.
 
 - [asam-ods-interfaces](https://github.com/asam-ev/ASAM-ODS-Interfaces) - The .proto files in this repository define the Protocol Buffer schemas used to interface with these ODS services.
+
+---
 
 ## Tools and helper scripts
 
