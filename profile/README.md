@@ -18,9 +18,9 @@ If you want to contribute in one of our open source projects, please read the [C
 
 Click below in the quick-links to the ASAM projects and their repositories:
 - [ASAM Quality Checker Framework](#asam-quality-checker-framework)
-- [ASAM OSI® (Open Simulation Interface)](#asam-osi-open-simulation-interface)
+- [ASAM OSI®)](#asam-osi)
 - [ASAM OpenMATERIAL® 3D](#asam-openmaterial-3d)
-- [ASAM ODS (Open Data Services)](#asam-ods-open-data-services)
+- [ASAM ODS](#asam-ods)
 
 Further standardization projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/) or directly on:
 - [Proposals & enrollments](https://www.asam.net/active-projects/proposals/)
