@@ -1,7 +1,7 @@
-# ASAM Open Source Platform
+# ASAM open source platform
 [![tp header](/doc/img/Asam_Background_1.jpg)](http://www.asam.net/)
 
-ASAM e.V. (Association for Standardization of Automation and Measuring Systems) is a non-profit organization that promotes standardization of tool chains in automotive development and testing. Our members are international car manufacturers, suppliers, tool vendors, engineering service providers, and research institutes. ASAM standards are developed by experts from our member companies and are based on real use cases. ASAM is the legal owner of these standards and is responsible for their distribution and marketing.
+ASAM e.V. (Association for Standardization of Automation and Measuring Systems) is a not-for-profit organization that promotes standardization of tool chains in automotive development and testing. Our members are international car manufacturers, suppliers, tool vendors, engineering service providers, and research institutes. ASAM standards are developed by experts from our member companies and are based on real use cases. ASAM is the legal owner of these standards and is responsible for their distribution and marketing.
 
 ASAM provides support in connecting members, coordinating work groups, and developing, releasing, and maintaining standards. Our active community includes more than 400 member organizations around the world. These members ensure that ideas with market relevance will progress into standards and that these standards are used worldwide. 
 
@@ -14,15 +14,17 @@ If you want to contribute in one of our open source projects, please read the [C
 
 | ASAM QC FRAMEWORK            | ASAM OSI              | ASAM OpenMATERIAL         | ASAM ODS |
 |:----------------------------:|:---------------------:|:------------------------:|:------------------------:|
-| [<img src="/doc/img/ASAM Quality Checker Framework.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://github.com/OpenSimulationInterface/open-simulation-interface) | [<img src="/doc/img/sharepoint_logo_openMaterial.png" width="100" />](https://github.com/asam-ev/OpenMATERIAL) | [<img src="/doc/img/ODS.png" width="100" />](https://github.com/asam-ev/ASAM-ODS-Interfaces) |
+| [<img src="/doc/img/QC_official.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://github.com/OpenSimulationInterface/open-simulation-interface) | [<img src="/doc/img/OpenMATERIAL_official.jfif" width="100" />](https://github.com/asam-ev/OpenMATERIAL) | [<img src="/doc/img/ODS_official.jfif" width="100" />](https://github.com/asam-ev/ASAM-ODS-Interfaces) |
 
-Here are quick-links to the ASAM projects and their repositories:
+Click below in the quick-links to the ASAM projects and their repositories:
 - [ASAM Quality Checker Framework](#asam-quality-checker-framework)
 - [ASAM OSI® (Open Simulation Interface)](#asam-osi-open-simulation-interface)
 - [ASAM OpenMATERIAL® 3D](#asam-openmaterial-3d)
 - [ASAM ODS (Open Data Services)](#asam-ods-open-data-services)
 
-More information about active projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/).
+Further standardization projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/) or directly on:
+- [Proposals & enrollments](https://www.asam.net/active-projects/proposals/)
+- [Active projects](https://www.asam.net/active-projects/projects/ )
 
 Quick-links to other resources and tools:
 - [Tools and helper scripts](#tools-and-helper-scripts)
