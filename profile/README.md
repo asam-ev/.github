@@ -11,16 +11,11 @@ If you want to contribute in one of our open source projects, please read the [C
 
 ## ASAM Projects
 
+Click on the logos:
 
-| ASAM QC FRAMEWORK            | ASAM OSI              | ASAM OpenMATERIAL 3D     | ASAM ODS |
+| ASAM Quality Checker FRAMEWORK | ASAM OSI            | ASAM OpenMATERIAL 3D     | ASAM ODS |
 |:----------------------------:|:---------------------:|:------------------------:|:------------------------:|
 | [<img src="/doc/img/QC_official.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://github.com/OpenSimulationInterface/open-simulation-interface) | [<img src="/doc/img/OpenMATERIAL_official.jfif" width="100" />](https://github.com/asam-ev/OpenMATERIAL) | [<img src="/doc/img/ODS_official.jfif" width="100" />](https://github.com/asam-ev/ASAM-ODS-Interfaces) |
-
-Click below in the quick-links to the ASAM projects and their repositories:
-- [ASAM Quality Checker Framework](#asam-quality-checker-framework)
-- [ASAM OSI®](#asam-osi)
-- [ASAM OpenMATERIAL® 3D](#asam-openmaterial-3d)
-- [ASAM ODS](#asam-ods)
 
 Further standardization projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/) or directly on:
 - [Proposals & enrollments](https://www.asam.net/active-projects/proposals/)
