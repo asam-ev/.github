@@ -13,7 +13,7 @@ If you want to contribute in one of our open source projects, please read the [C
 
 Click on the logos:
 
-| ASAM Quality Checker FRAMEWORK | ASAM OSI            | ASAM OpenMATERIAL 3D     | ASAM ODS |
+| ASAM Quality Checker Framework | ASAM OSI            | ASAM OpenMATERIAL 3D     | ASAM ODS |
 |:----------------------------:|:---------------------:|:------------------------:|:------------------------:|
 | [<img src="/doc/img/QC_official.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://github.com/OpenSimulationInterface/open-simulation-interface) | [<img src="/doc/img/OpenMATERIAL_official.jfif" width="100" />](https://github.com/asam-ev/OpenMATERIAL) | [<img src="/doc/img/ODS_official.jfif" width="100" />](https://github.com/asam-ev/ASAM-ODS-Interfaces) |
 
