@@ -72,10 +72,11 @@ The [ASAM ODS (Open Data Services)](https://www.asam.net/standards/detail/ods/) 
 
 ---
 
-## Tools and helper scripts
+## Tools and External Resources
 
-ASAM members or projects teams oftens develop scripts or small tools that support the use of one or more ASAM standards. To increase thier visibility and accessibility, ASAM hosts them on its repositories.
+ASAM members or projects teams oftens develop repositories, scripts or small tools that support the use of one or more ASAM standards. To increase thier visibility and accessibility, you can also find them here:
 
-- [Wireshark plugin for ASAM iLinkRT](https://github.com/asam-ev/Wireshark-iLinkRT) - This enables the popular network protocol analyzer [Wireshark](https://www.wireshark.org/) to dissect ASAM iLinkRT frames. 
+[ASAM Resources](https://www.asam.net/active-projects/resources/)
+
 
 
