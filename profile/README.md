@@ -74,7 +74,7 @@ The [ASAM ODS (Open Data Services)](https://www.asam.net/standards/detail/ods/) 
 
 ## Tools and External Resources
 
-ASAM members or projects teams oftens develop repositories, scripts or small tools that support the use of one or more ASAM standards. To increase thier visibility and accessibility, you can also find them here:
+ASAM members or projects teams oftens develop repositories, scripts or small tools that support the use of one or more ASAM standards. To increase their visibility and accessibility, you can also find them here:
 
 [ASAM Resources](https://www.asam.net/active-projects/resources/)
 
