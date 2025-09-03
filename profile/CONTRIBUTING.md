@@ -2,11 +2,90 @@
 
 As an open-source standardization projects, we welcome and encourage the community to submit patches directly to the project. In our collaborative open source environment, standards and methods for submitting changes help reduce the chaos that can result from an active development community. This document explains how to participate in project conversations, log bugs and enhancement requests, and submit patches to the project so your patch will be accepted quickly in the codebase.
 
-All intellectual property remains with the original contributors, and is subject to the original license terms described in the LICENSE file.
+All intellectual property remains with the original contributors, and is subject to the original license terms described in the [LICENSE](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/LICENSE.md).
+
+## How are open-source projects structured in ASAM?
+
+ASAM recognizes several hosting modes:
+
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform.png)
+
+### 1. The product is developed within an ASAM project group
+  
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_1.PNG)
+
+The product is developed within an ASAM project group and released under the ASAM GitHub organization. In this approach, an idea can be proposed by anyone—ASAM members, non-members, or directly from the ASAM office—who wishes to establish a working group to develop the concept further. Ideas can be shared with us via [E-Mail](info@asam.net)
+
+> Note: Please keep in mind that if a non-ASAM member proposes an idea but wishes to participate in its development, an active ASAM membership is required.
+
+For more details and information about the project phases, please refer to our [Project Guide](https://asam-ev.github.io/asam-project-guide/asamprojectguide/latest/compendium/Projects/03_project_phases.html)
+
+    The declaration document specifies that:
+
+        1. The software is a result of the project group’s activities.
+        2. No project group member retains any rights.
+        3. All required components are provided.
+        4. The deliverable is free from malware.
+        5. The deliverable is relevant for ASAM standardization work.
+
+### 2. The product is handed over to an ASAM project group for continued development
+
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_2.PNG)
+
+The product is transferred to an ASAM project group for further development (modification or extension) and is collaboratively released through the ASAM marketplace. In this approach, there is already an initial work or baseline to build upon. The ASAM Office will evaluate it and treat it as a new project. The project phases and work process will follow the same structure as in the first approach, with the key difference being that the outcome will be collaboratively released in the ASAM marketplace.
+
+     The declaration document specifies that:
+
+        1. The software is a result of the project group’s activities.
+        2. No project group member retains any rights.
+        3. For third-party components (select applicable items):
+            3.a The deliverable is free from third-party rights.
+            3.b All third-party components are open-source.
+            3.c All third-party rights have been transferred to ASAM.
+        7. All required components are provided.
+        8. The deliverable is free from malware.
+        9. The deliverable is relevant for ASAM standardization work.
+  
+### 3. The product is transferred to ASAM for direct publication.
+  
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_3.PNG)
+
+The product is submitted to ASAM for direct publication, without any modifications, as an official ASAM product on the ASAM marketplace. In this case, no active working group will be involved in further development.
+
+    The transfer agreement specifies that:
+
+      - ASAM is authorized to:
+  
+            1. Provide public access
+            2. Distribute free copies
+            3. Modify and/or integrate with other software
+            4. Reject or delete the deliverable
+            5. Sub-license the software
+            6. Promote or advertise the deliverable
+  
+      - The third party guarantees:
+  
+            1. Compliance with ASAM’s licensing terms
+            2. For third-party components (select applicable items):
+                2.a The deliverable is free of third-party rights
+                2.b All third-party components are open-source and comply with ASAM requirements
+                2.c All third-party rights have been transferred to ASAM
+            3. All necessary components are included
+            4. The deliverable is free of malware
+            5. The deliverable is relevant to ASAM standardization efforts
+  
+### 4. The product is submitted directly to ASAM for publication as a third-party product
+
+![tp header](/doc/img/OpenSource_ASAM_Overview_Platform_Opt_4.PNG)
+
+The product is submitted directly to ASAM for publication as a third-party product, without any changes, on the ASAM marketplace (see [Marketplace Terms & Conditions](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/MARKETPLACE_T%26Cs.md)).
+
+**_IMPORTANT_**  
+The ASAM office will consistently conduct a compliance check to ensure all requirements are met.
 
 ## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/) or the project
 
-Before you fill out the [Membership Request Form](https://www.asam.net/index.php?eID=dumpFile&t=f&f=671&token=b37651b1609e8693188bbde1dafc4f229c18c2c8) we ask you to get familiar with the [ASAM Statutes](https://www.asam.net/index.php?eID=dumpFile&t=f&f=675&token=5a112bf0f7638cbfd647f89b89869af94e212762) and the [Regulation of Fees](https://www.asam.net/index.php?eID=dumpFile&t=f&f=673&token=1321eb0a4e6cfb99112f61648e411520f83a8d01). If you have questions when determining your member class, please check the FAQs below or contact us at info@asam.net.
+Before you fill out the [Membership Request Form](https://www.asam.net/index.php?eID=dumpFile&t=f&f=671&token=b37651b1609e8693188bbde1dafc4f229c18c2c8) we ask you to get familiar with the [ASAM Statutes](https://www.asam.net/index.php?eID=dumpFile&t=f&f=675&token=5a112bf0f7638cbfd647f89b89869af94e212762) and the [Regulation of Fees](https://www.asam.net/index.php?eID=dumpFile&t=f&f=673&token=1321eb0a4e6cfb99112f61648e411520f83a8d01). If you have questions when determining your member class, please contact us at info@asam.net.
 
 After turning in your Membership Request Form, the ASAM Office will forward your application to the Board of Directors for approval. Upon decision of acceptance, the ASAM Office welcomes you and guides you through the server registration process. We also provide all relevant information (e. g. guidelines) and answer any questions you may have. Our goal is to inspire you to become an active member of the community so you can take the full advantage of your membership. 
 
@@ -20,7 +99,7 @@ Or **contact our office: info@asam.net**
 
 ## :white_check_mark: Licensing
 
-This project uses the MPL-2.0 License (as found in the LICENSE file).
+Projects transferred into our marketplace will undergo a defined transfer process, during which the final license will be selected and explicitly established. (see also [LICENSE file](https://github.com/asam-ev/.github/blob/AsamDiegoSanchez-OSSP-ASAM-Structure/profile/LICENSE.md)).
 
 The license tells you what rights you have as a developer, provided by the copyright holder. It is important that the contributor fully understands the licensing rights and agrees to them. Sometimes the copyright holder isn’t the contributor, such as when the contributor is doing work on behalf of a company.
 
