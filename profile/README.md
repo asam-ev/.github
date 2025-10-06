@@ -13,9 +13,9 @@ If you want to contribute in one of our open source projects, please read the [C
 
 Click on the logos:
 
-| ASAM Quality Checker Framework | ASAM OSI            | ASAM OpenMATERIAL 3D     | ASAM ODS |
-|:----------------------------:|:---------------------:|:------------------------:|:------------------------:|
-| [<img src="/doc/img/QC_official.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://github.com/OpenSimulationInterface/open-simulation-interface) | [<img src="/doc/img/OpenMATERIAL_official.jfif" width="100" />](https://github.com/asam-ev/OpenMATERIAL) | [<img src="/doc/img/ODS_official.jfif" width="100" />](https://github.com/asam-ev/ASAM-ODS-Interfaces) |
+| ASAM Quality Checker Framework | ASAM OSI            | ASAM OpenMATERIAL 3D     | ASAM OpenCRG |ASAM ODS |
+|:----------------------------:|:---------------------:|:------------------------:|:------------------------:|:------------------------:|
+| [<img src="/doc/img/QC_official.png" width="100" />](https://github.com/asam-ev/qc-framework) | [<img src="/doc/img/OSI.jpg" width="100" />](https://github.com/OpenSimulationInterface/open-simulation-interface) | [<img src="/doc/img/OpenMATERIAL_official.jfif" width="100" />](https://github.com/asam-ev/OpenMATERIAL) | [<img src="/doc/img/OpenCRG.jpg" width="100" />]([https://github.com/OpenSimulationInterface/open-simulation-interface](https://github.com/asam-ev/OpenCRG))| [<img src="/doc/img/ODS_official.jfif" width="100" />](https://github.com/asam-ev/ASAM-ODS-Interfaces) |
 
 Further standardization projects can be found on our webpage [www.asam.net](https://www.asam.net/active-projects/projects/) or directly on:
 - [Proposals & enrollments](https://www.asam.net/active-projects/proposals/)
@@ -61,6 +61,14 @@ ASAM OSI (Open Simulation Interface) is a specification for interfaces between m
 There is a growing need to accurately represent the real world in simulation, a so-called digital twin, particularly as the need for physical sensor simulation grows. However, for this to be feasible, physically correct modeling of material properties is fundamental. To ensure consistent testing across platforms and by different stakeholders, 3D models and corresponding material properties need to be unambiguously exchangeable. ASAM OpenMATERIAL 3D v1.0.0 is a standardized format for material properties and 3D model structures.   
 
 - [OpenMATERIAL® 3D](https://github.com/asam-ev/OpenMATERIAL)
+
+---
+
+### ASAM OpenCRG®
+
+ASAM OpenCRG defines a standardized file format for describing detailed road surface data, primarily used in tire, vibration, and driving simulations. It organizes elevation and other surface parameters, such as friction or texture, within a "curved regular grid" (CRG) aligned along a road reference line, enabling precise and efficient data representation. The format supports both ASCII and binary files with structured headers describing road geometry, configuration, and linked data sets. OpenCRG integrates seamlessly with ASAM OpenDRIVE for road networks and ASAM OpenSCENARIO for simulation dynamics, forming a complete framework for realistic vehicle simulation. It includes ANSI-C and MATLAB libraries for reading, editing, and visualizing CRG data..   
+
+- [OpenCRG®](https://github.com/asam-ev/OpenCRG)
 
 ---
 
