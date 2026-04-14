@@ -1,14 +1,14 @@
 # :book: Contributing to ASAM e.V. open-source Projects
 
-As an open-source standardization projects, we welcome and encourage the community to submit patches directly to the project. In our collaborative open source environment, standards and methods for submitting changes help reduce the chaos that can result from an active development community. This document explains how to participate in project conversations, log bugs and enhancement requests, and submit patches to the project so your patch will be accepted quickly in the codebase.
+As an open-source standardization project, we welcome and encourage the community to submit patches directly to the project. In our collaborative open-source environment, standards and methods for submitting changes help reduce the chaos that can arise from an active development community. This document explains how to participate in project conversations, log bugs and enhancement requests, and submit patches to the project so your patches are accepted quickly into the codebase.
 
-All intellectual property remains with the original contributors, and is subject to the original license terms described in the LICENSE file.
+All intellectual property remains with the original contributors and is subject to the original license terms described in the LICENSE file.
 
 ## How to officially [join ASAM](https://www.asam.net/about-asam/join-asam/) or the project
 
 Before you fill out the [Membership Request Form](https://www.asam.net/index.php?eID=dumpFile&t=f&f=671&token=b37651b1609e8693188bbde1dafc4f229c18c2c8) we ask you to get familiar with the [ASAM Statutes](https://www.asam.net/index.php?eID=dumpFile&t=f&f=675&token=5a112bf0f7638cbfd647f89b89869af94e212762) and the [Regulation of Fees](https://www.asam.net/index.php?eID=dumpFile&t=f&f=673&token=1321eb0a4e6cfb99112f61648e411520f83a8d01). If you have questions when determining your member class, please check the FAQs below or contact us at info@asam.net.
 
-After turning in your Membership Request Form, the ASAM Office will forward your application to the Board of Directors for approval. Upon decision of acceptance, the ASAM Office welcomes you and guides you through the server registration process. We also provide all relevant information (e. g. guidelines) and answer any questions you may have. Our goal is to inspire you to become an active member of the community so you can take the full advantage of your membership. 
+After turning in your Membership Request Form, the ASAM Office will forward your application to the Board of Directors for approval. Upon decision of acceptance, the ASAM Office welcomes you and guides you through the server registration process. We also provide all relevant information (e.g., guidelines) and answer any questions you may have. Our goal is to inspire you to become an active member of the community so you can take full advantage of your membership. 
 
 ## :bulb: Asking Questions
 
@@ -28,28 +28,28 @@ The license tells you what rights you have as a developer, provided by the copyr
 
 To make a good faith effort to ensure licensing criteria are met, this project requires the Developer Certificate of Origin (DCO) process to be followed.
 The DCO is an attestation attached to every contribution made by every developer.
-In the commit message of the contribution, (described more fully [here](#Usage-of-DCO-Sign-Off)), the developer simply adds a "Signed-off-by" statement and thereby agrees to the DCO.
+In the commit message of the contribution (described more fully [here](#Usage-of-DCO-Sign-Off)), the developer simply adds a "Signed-off-by" statement and thereby agrees to the DCO.
 When a developer submits a patch, it is a commitment that the contributor has the right to submit the patch per the license.
 The DCO agreement is shown below and online at [developercertificate.org](https://developercertificate.org/).
 
 > **Developer's Certificate of Origin 1.1**
 >
->By making a contribution to this project, I certify that:
+>By contributing to this project, I certify that:
 >
->(a) The contribution was created in whole or in part by me and I
+>(a) The contribution was created in whole or in part by me, and I
     have the right to submit it under the open source license
     indicated in the file; or
 >
 >(b) The contribution is based upon previous work that, to the
     best of my knowledge, is covered under an appropriate open
-    source license and I have the right under that license to
-    submit that work with modifications, whether created in whole
+    source license, and I have the right under that license to
+    Submit that work with modifications, whether created in whole
     or in part by me, under the same open source license (unless
     I am permitted to submit under a different license), as
-    Indicated in the file; or
+    Indicated in the file, or
 >
 >(c) The contribution was provided directly to me by some other
-    person who certified (a), (b) or (c) and I have not modified
+    person who certified (a), (b), or (c), and I have not modified
     it.
 >
 >(d) I understand and agree that this project and the contribution
@@ -66,9 +66,9 @@ The DCO requires a sign-off message in the following format to appear on each co
 `Signed-off-by: Firstname Lastname <email@address.com> <comment>`
 
 The DCO text can either be manually added to your commit body, or you can add either `-s` or `--signoff` to your usual Git commit commands.
-If you forget to add the sign-off you can also amend a previous commit with the sign-off by running git commit `--amend -s`.
+If you forget to add the sign-off, you can also amend a previous commit with the sign-off by running git commit `--amend -s`.
 You can add sign-offs to multiple commits (including commits originally authored by others, if you are authorized to do so) using `git rebase --signoff`.
-If you’ve pushed your changes to GitHub already you’ll need to force push your branch after this with `git push --force-with-lease`.
+If you’ve pushed your changes to GitHub already, you’ll need to force push your branch after this with `git push --force-with-lease`.
 If you want to be reminded to add the sign-off for commits in your repository, you can add the following commit-message git hook to your repository:
 
 ```bash
@@ -84,17 +84,17 @@ then
 fi
 ```
 
-Placing this script into a file called `.git/hooks/commit-msg` and making it executable (e.g. using `chmod a+x .git/hooks/commit-msg` on unixoid operating systems) will prevent commits without a sign-off.
+Placing this script into a file called `.git/hooks/commit-msg` and making it executable (e.g., using `chmod a+x .git/hooks/commit-msg` on Unixoid operating systems) will prevent commits without a sign-off.
 
 
 ## :mag: Implement changes
 
 Feature additions and bug fixes from the community are very welcome.
 Therefore, feel free not only to report an issue but also to work on a solution right away.
-In order to implement changes, you can:
+To implement changes, you can:
 
-- fork the repository.
-- request access to the contributors group. Then you can make your changes directly in this repository.
+- Fork the repository
+- Request access to the contributors group. Then you can make your changes directly in this repository
 
 For both ways, the following workflow applies:
 
@@ -110,14 +110,14 @@ The steps are further described in the following.
 
 Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project.
 
-The first step is to identify and describe a bug or feature, or place a question.
+The first step is to identify and describe a bug or feature, or ask a question.
 Open a new issue in the respective project GitHub repository with the respective template for a bug or a feature.
 
 - **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have.
 
 - **Prefer using [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)**, not comments, if you simply want to "+1" an existing issue.
 
-- **Fully complete the provided issue template.** The templates requests all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can.
+- **Fully complete the provided issue template.** The templates request all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can.
 
 - **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially put code blocks and console outputs in backticks (`). This improves readability.
 
@@ -159,11 +159,11 @@ Also, the CI pipeline will run for every commit, so you can continuously check y
 
 ### Convert into 'real' pull request
 
-Once you are done with your changes and all reviews took place, [convert the draft to a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request).
+Once you are done with your changes and all reviews have taken place, [convert the draft to a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request).
 
 By this, the change control board (CCB) knows that you are done with your work and that the pull request is ready for review and merge.
 
-The CCB is a subgroup of experts from the project and responsible for internal alignment of topics, release management and approval/review of pull requests:
+The CCB is a subgroup of experts from the project and is responsible for internal alignment of topics, release management, and approval/review of pull requests:
 - Issue and MR/PR review
 - Classification of issues
 - Assignment of issues to solution developer(s)
@@ -188,13 +188,13 @@ Please [write a great commit message](https://chris.beams.io/posts/git-commit/).
 Add a more detailed explanation here, if necessary. Possibly give
 some background about the issue, etc. The body of the
 commit message can be several paragraphs. Further paragraphs come
-after blank lines and please do proper word-wrap.
+after blank lines, and please do proper word-wrap.
 
 Wrap it to about 72 characters or so. In some contexts,
-the first line is treated as the subject of the commit and the
+The first line is treated as the subject of the commit and the
 rest of the text as the body. The blank line separating the summary
 from the body is critical (unless you omit the body entirely);
-various tools like `log`, `shortlog` and `rebase` can get confused
+various tools like `log`, `shortlog`, and `rebase` can get confused
 if you run the two together.
 
 Explain the problem that this commit is solving. Focus on why you
