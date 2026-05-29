@@ -40,6 +40,8 @@ A quality checker framework that allows the configuration, execution and reporti
 - [qc-openscenarioxml](https://github.com/asam-ev/qc-openscenarioxml) - The official ASAM checker bundle for ASAM OpenSCENARIO XML.
 - [qc-otx](https://github.com/asam-ev/qc-otx) - A checker bundle implementing a sample of rules for the standard ASAM OTX Extensions (Open Test sequence eXchange). Note that this is not to be considered an exhaustive checker bundle.
 - [qc-openmaterial-3d](https://github.com/asam-ev/qc-openmaterial-3d/tree/develop) - Specific ASAM OpenMATERIAL 3D repository which implements his official ASAM OpenMATERIAL 3D checker bundle
+- [qc-osi-trace-checker](https://github.com/OpenSimulationInterface/qc-osi-trace) - OSI Trace File Checker bundle for the ASAM Quality Checker Framework, supporting validation of `.osi` and `.mcap` trace files.
+
 
 ---
 
