@@ -52,7 +52,11 @@ ASAM OSI (Open Simulation Interface) is a specification for interfaces between m
 - [Class Reference](https://opensimulationinterface.github.io/osi-antora-generator/asamosi/latest/gen/annotated.html)
 - [open-simulation-interface](https://github.com/OpenSimulationInterface/open-simulation-interface) - The main repository for the standard.
 - [osi-sensor-model-packaging](https://github.com/OpenSimulationInterface/osi-sensor-model-packaging) - ASAM OSI Sensor Model Packaging specifies ways in which models (like e.g. environmental effect models, sensor models and logical models) using the Open Simulation Interface (ASAM OSI) are to be packaged for their use in simulation environments using [FMI 2.0](https://report.asam.net/fmi-functional-mock-up-interface).
+- [open-cpp](https://github.com/OpenSimulationInterface/osi-cpp) - Hosts the ASAM OSI C++ Bindings.
+- [open-python](https://github.com/OpenSimulationInterface/osi-python) - Hosts the ASAM OSI Python bindings und utilities modules
 - [osi-validation](https://github.com/OpenSimulationInterface/osi-validation) - The ASAM OSI Validator checks the compliance of OSI messages with predefined rules.
+> [!NOTE]
+> The ASAM OSI Validator is no longer actively maintained and will be replaced by the ASAM Quality Checker Framework, which supports the .osi format as of ASAM OSI 3.8.0
 - [osi-documentation](https://github.com/OpenSimulationInterface/osi-documentation) - Hosts the AsciiDoc-based part of the documentation. It contains general parts of the content and a CI-pipeline that renders the document with Asciidoctor and deploys it to the [github-pages](https://github.com/OpenSimulationInterface/osi-documentation/deployments/github-pages) of this repo.
 - [osi-antora-generator](https://github.com/OpenSimulationInterface/osi-antora-generator) - The pipeline of this repository is responsible for creating the combined and versioned Antora output for ASAM OSI. It also pushes it to the respective GitHub pages for hosting.
 
